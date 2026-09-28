@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-28T09:25:05.757867+00:00",
+    "last_updated": "2026-09-28T09:30:52.520686+00:00",
     "raids": [
         {
             "name": "Dratini",
@@ -119,210 +119,262 @@
     "max_battles": [
         {
             "name_jp": "メッソン",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg12%2Fimg12045_5.png&w=120"
         },
         {
             "name_jp": "ヒトカゲ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg109_5.png&w=120"
         },
         {
             "name_jp": "ゼニガメ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg133_5.png&w=120"
         },
         {
             "name_jp": "ピカチュウ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg200_5.png&w=120"
         },
         {
             "name_jp": "キャタピー",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg159_5.png&w=120"
         },
         {
             "name_jp": "ガーディ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg275_5.png&w=120"
         },
         {
             "name_jp": "ケーシィ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg290_5.png&w=120"
         },
         {
             "name_jp": "ゴース",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg399_5.png&w=120"
         },
         {
             "name_jp": "クラブ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg420_5.png&w=120"
         },
         {
             "name_jp": "サイホーン",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg472_5.png&w=120"
         },
         {
             "name_jp": "コイキング",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg490_5.png&w=120"
         },
         {
             "name_jp": "オムナイト",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg499_5.png&w=120"
         },
         {
             "name_jp": "カブト",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg501_5.png&w=120"
         },
         {
             "name_jp": "フシギダネ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg81_5.png&w=120"
         },
         {
             "name_jp": "ホーホー",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg1%2Fimg1318_5.png&w=120"
         },
         {
             "name_jp": "ラルトス",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2501_5.png&w=120"
         },
         {
             "name_jp": "ナックラー",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2549_5.png&w=120"
         },
         {
             "name_jp": "タマザラシ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2584_5.png&w=120"
         },
         {
             "name_jp": "ミツハニー",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg4%2Fimg4386_5.png&w=120"
         },
         {
             "name_jp": "マメパト",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7226_5.png&w=120"
         },
         {
             "name_jp": "ダンゴロ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7231_5.png&w=120"
         },
         {
             "name_jp": "コロモリ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7236_5.png&w=120"
         },
         {
             "name_jp": "モグリュー",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7238_5.png&w=120"
         },
         {
             "name_jp": "モンメン",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7255_5.png&w=120"
         },
         {
             "name_jp": "ヤブクロン",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7278_5.png&w=120"
         },
         {
             "name_jp": "マーイーカ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7698_5.png&w=120"
         },
         {
             "name_jp": "アマカジ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg10%2Fimg10426_5.png&w=120"
         },
         {
             "name_jp": "ホシガリス",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg11%2Fimg11992_5.png&w=120"
         },
         {
             "name_jp": "ウールー",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg11%2Fimg11994_5.png&w=120"
         },
         {
             "name_jp": "サルノリ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg12%2Fimg12039_5.png&w=120"
         },
         {
             "name_jp": "ヒバニー",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg12%2Fimg12042_5.png&w=120"
         },
         {
             "name_jp": "ココガラ",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg12%2Fimg12048_5.png&w=120"
         },
         {
             "name_jp": "ミブリム",
+            "level": "tier_1",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg12%2Fimg12081_5.png&w=120"
         },
         {
             "name_jp": "ワンリキー",
+            "level": "tier_2",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg302_5.png&w=120"
         },
         {
             "name_jp": "イーブイ",
+            "level": "tier_2",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg494_5.png&w=120"
         },
         {
             "name_jp": "ツボツボ",
+            "level": "tier_2",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg1%2Fimg1376_5.png&w=120"
         },
         {
             "name_jp": "ホエルコ",
+            "level": "tier_2",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2541_5.png&w=120"
         },
         {
             "name_jp": "ヒンバス",
+            "level": "tier_2",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2570_5.png&w=120"
         },
         {
             "name_jp": "ダルマッカ",
+            "level": "tier_2",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7264_5.png&w=120"
         },
         {
             "name_jp": "サワムラー",
+            "level": "tier_3",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg461_5.png&w=120"
         },
         {
             "name_jp": "エビワラー",
+            "level": "tier_3",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg465_5.png&w=120"
         },
         {
             "name_jp": "エレブー",
+            "level": "tier_3",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg486_5.png&w=120"
         },
         {
             "name_jp": "ブーバー",
+            "level": "tier_3",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg487_5.png&w=120"
         },
         {
             "name_jp": "ラッキー",
+            "level": "tier_3",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg474_5.png&w=120"
         },
         {
             "name_jp": "カポエラー",
+            "level": "tier_3",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg1%2Fimg1400_5.png&w=120"
         },
         {
             "name_jp": "ヤミラミ",
+            "level": "tier_3",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2523_5.png&w=120"
         },
         {
             "name_jp": "ダンバル",
+            "level": "tier_3",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2595_5.png&w=120"
         },
         {
             "name_jp": "フリージオ",
+            "level": "tier_3",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7331_5.png&w=120"
         },
         {
             "name_jp": "モノズ",
+            "level": "tier_3",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7349_5.png&w=120"
         },
         {
             "name_jp": "ナゲツケサル",
+            "level": "tier_3",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg10%2Fimg10431_5.png&w=120"
         },
         {
             "name_jp": "ジジーロン",
+            "level": "tier_3",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg10%2Fimg10531_5.png&w=120"
         },
         {
             "name_jp": "タイレーツ",
+            "level": "tier_3",
             "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg11%2Fimg11996_5.png&w=120"
         }
     ],
