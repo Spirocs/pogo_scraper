@@ -1,0 +1,329 @@
+{
+    "last_updated": "2026-09-28T09:11:41.517219+00:00",
+    "raids": [
+        {
+            "name": "Dratini",
+            "tier": "1",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm147.icon.png",
+            "is_shadow": false
+        },
+        {
+            "name": "Larvitar",
+            "tier": "1",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm246.icon.png",
+            "is_shadow": false
+        },
+        {
+            "name": "Bagon",
+            "tier": "1",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm371.icon.png",
+            "is_shadow": false
+        },
+        {
+            "name": "Deino",
+            "tier": "1",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm633.icon.png",
+            "is_shadow": false
+        },
+        {
+            "name": "Hisuian Typhlosion",
+            "tier": "3",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm157.fHISUIAN.icon.png",
+            "is_shadow": false
+        },
+        {
+            "name": "Hisuian Samurott",
+            "tier": "3",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm503.fHISUIAN.icon.png",
+            "is_shadow": false
+        },
+        {
+            "name": "Hisuian Decidueye",
+            "tier": "3",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm724.fHISUIAN.icon.png",
+            "is_shadow": false
+        },
+        {
+            "name": "Xurkitree",
+            "tier": "5",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm796.icon.png",
+            "is_shadow": false
+        },
+        {
+            "name": "Pheromosa",
+            "tier": "5",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm795.icon.png",
+            "is_shadow": false
+        },
+        {
+            "name": "Buzzwole",
+            "tier": "5",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.icon.png",
+            "is_shadow": false
+        },
+        {
+            "name": "Mega Malamar",
+            "tier": "Mega",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png",
+            "is_shadow": false
+        },
+        {
+            "name": "Shadow Machop",
+            "tier": "1",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm66.icon.png",
+            "is_shadow": true
+        },
+        {
+            "name": "Shadow Bellsprout",
+            "tier": "1",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm69.icon.png",
+            "is_shadow": true
+        },
+        {
+            "name": "Shadow Torchic",
+            "tier": "1",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm255.icon.png",
+            "is_shadow": true
+        },
+        {
+            "name": "Shadow Bagon",
+            "tier": "1",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm371.icon.png",
+            "is_shadow": true
+        },
+        {
+            "name": "Shadow Alolan Sandslash",
+            "tier": "3",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm28.fALOLA.icon.png",
+            "is_shadow": true
+        },
+        {
+            "name": "Shadow Quagsire",
+            "tier": "3",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm195.icon.png",
+            "is_shadow": true
+        },
+        {
+            "name": "Shadow Lampent",
+            "tier": "3",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm608.icon.png",
+            "is_shadow": true
+        },
+        {
+            "name": "Shadow Thundurus (Incarnate)",
+            "tier": "5",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm642.fINCARNATE.icon.png",
+            "is_shadow": true
+        }
+    ],
+    "max_battles": [
+        {
+            "name_jp": "メッソン",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg12%2Fimg12045_5.png&w=120"
+        },
+        {
+            "name_jp": "ヒトカゲ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg109_5.png&w=120"
+        },
+        {
+            "name_jp": "ゼニガメ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg133_5.png&w=120"
+        },
+        {
+            "name_jp": "ピカチュウ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg200_5.png&w=120"
+        },
+        {
+            "name_jp": "キャタピー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg159_5.png&w=120"
+        },
+        {
+            "name_jp": "ガーディ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg275_5.png&w=120"
+        },
+        {
+            "name_jp": "ケーシィ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg290_5.png&w=120"
+        },
+        {
+            "name_jp": "ゴース",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg399_5.png&w=120"
+        },
+        {
+            "name_jp": "クラブ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg420_5.png&w=120"
+        },
+        {
+            "name_jp": "サイホーン",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg472_5.png&w=120"
+        },
+        {
+            "name_jp": "コイキング",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg490_5.png&w=120"
+        },
+        {
+            "name_jp": "オムナイト",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg499_5.png&w=120"
+        },
+        {
+            "name_jp": "カブト",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg501_5.png&w=120"
+        },
+        {
+            "name_jp": "フシギダネ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg81_5.png&w=120"
+        },
+        {
+            "name_jp": "ホーホー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg1%2Fimg1318_5.png&w=120"
+        },
+        {
+            "name_jp": "ラルトス",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2501_5.png&w=120"
+        },
+        {
+            "name_jp": "ナックラー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2549_5.png&w=120"
+        },
+        {
+            "name_jp": "タマザラシ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2584_5.png&w=120"
+        },
+        {
+            "name_jp": "ミツハニー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg4%2Fimg4386_5.png&w=120"
+        },
+        {
+            "name_jp": "マメパト",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7226_5.png&w=120"
+        },
+        {
+            "name_jp": "ダンゴロ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7231_5.png&w=120"
+        },
+        {
+            "name_jp": "コロモリ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7236_5.png&w=120"
+        },
+        {
+            "name_jp": "モグリュー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7238_5.png&w=120"
+        },
+        {
+            "name_jp": "モンメン",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7255_5.png&w=120"
+        },
+        {
+            "name_jp": "ヤブクロン",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7278_5.png&w=120"
+        },
+        {
+            "name_jp": "マーイーカ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7698_5.png&w=120"
+        },
+        {
+            "name_jp": "アマカジ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg10%2Fimg10426_5.png&w=120"
+        },
+        {
+            "name_jp": "ホシガリス",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg11%2Fimg11992_5.png&w=120"
+        },
+        {
+            "name_jp": "ウールー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg11%2Fimg11994_5.png&w=120"
+        },
+        {
+            "name_jp": "サルノリ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg12%2Fimg12039_5.png&w=120"
+        },
+        {
+            "name_jp": "ヒバニー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg12%2Fimg12042_5.png&w=120"
+        },
+        {
+            "name_jp": "ココガラ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg12%2Fimg12048_5.png&w=120"
+        },
+        {
+            "name_jp": "ミブリム",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg12%2Fimg12081_5.png&w=120"
+        },
+        {
+            "name_jp": "ワンリキー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg302_5.png&w=120"
+        },
+        {
+            "name_jp": "イーブイ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg494_5.png&w=120"
+        },
+        {
+            "name_jp": "ツボツボ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg1%2Fimg1376_5.png&w=120"
+        },
+        {
+            "name_jp": "ホエルコ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2541_5.png&w=120"
+        },
+        {
+            "name_jp": "ヒンバス",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2570_5.png&w=120"
+        },
+        {
+            "name_jp": "ダルマッカ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7264_5.png&w=120"
+        },
+        {
+            "name_jp": "サワムラー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg461_5.png&w=120"
+        },
+        {
+            "name_jp": "エビワラー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg465_5.png&w=120"
+        },
+        {
+            "name_jp": "エレブー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg486_5.png&w=120"
+        },
+        {
+            "name_jp": "ブーバー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg487_5.png&w=120"
+        },
+        {
+            "name_jp": "ラッキー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg0%2Fimg474_5.png&w=120"
+        },
+        {
+            "name_jp": "カポエラー",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg1%2Fimg1400_5.png&w=120"
+        },
+        {
+            "name_jp": "ヤミラミ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2523_5.png&w=120"
+        },
+        {
+            "name_jp": "ダンバル",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg2%2Fimg2595_5.png&w=120"
+        },
+        {
+            "name_jp": "フリージオ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7331_5.png&w=120"
+        },
+        {
+            "name_jp": "モノズ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg7%2Fimg7349_5.png&w=120"
+        },
+        {
+            "name_jp": "ナゲツケサル",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg10%2Fimg10431_5.png&w=120"
+        },
+        {
+            "name_jp": "ジジーロン",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg10%2Fimg10531_5.png&w=120"
+        },
+        {
+            "name_jp": "タイレーツ",
+            "image": "https://cdn08.net/games/resize?src=%2Fpokemongo%2Fdata%2Fimg11%2Fimg11996_5.png&w=120"
+        }
+    ]
+}
