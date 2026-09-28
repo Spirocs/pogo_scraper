@@ -1,0 +1,35 @@
+name: Update Raid Bosses
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Läuft alle 6 Stunden automatisch
+  workflow_dispatch: # Erlaubt dir, das Skript jederzeit manuell per Button zu starten!
+
+permissions:
+  contents: write # WICHTIG: Erlaubt dem Bot, die neue JSON ins Repo zu pushen!
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scraper
+        run: python scraper.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add api/raidboss.json
+          # Checkt ob es Änderungen gibt, bevor er pusht
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-Update: Neue Raid & Max Bosse geladen!" && git push)
