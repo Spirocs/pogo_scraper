@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-29T17:08:54.250202+00:00",
+    "last_updated": "2026-09-29T21:35:24.940547+00:00",
     "raids": [
         {
             "name": "Dratini",
@@ -972,24 +972,6 @@
             "is_local_time": true,
             "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
             "link": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/"
-        },
-        {
-            "title": "Harvest Festival 2026: Applin Picking",
-            "type": "event",
-            "start": "2026-09-29T10:00:00",
-            "end": "2026-09-29T10:00:00",
-            "is_local_time": true,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-29-harvest-festival-2026/harvest-festival-2026.jpg",
-            "link": "https://leekduck.com/events/harvest-festival-2026/"
-        },
-        {
-            "title": "Master League and Mega Color Cup: Great League Edition | Twilight Trails",
-            "type": "go-battle-league",
-            "start": "2026-09-29T20:00:00+00:00",
-            "end": "2026-09-29T20:00:00+00:00",
-            "is_local_time": false,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/gobattleleague-master-key.jpg",
-            "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-color-cup-great-league-edition/"
         },
         {
             "title": "Mega Victreebel in Mega Raids",
