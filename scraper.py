@@ -111,6 +111,27 @@ def scrape_data():
                 "image": img_url,
                 "link": link
             })
+
+            if event_type == 'raid-battles' and " in " in title:
+                # Schneidet den Namen ab, z.B. wird "Xerneas in 5-star Raid Battles" zu "Xerneas"
+                boss_name_raw = title.split(" in ")[0].strip()
+                
+                tier = "Unknown"
+                if "5-star" in title:
+                    tier = "5-star"
+                elif "Mega" in title:
+                    tier = "Mega"
+                elif "Shadow" in title:
+                    tier = "Shadow"
+                    
+                final_data["scheduled_bosses"] = final_data.get("scheduled_bosses", [])
+                final_data["scheduled_bosses"].append({
+                    "name": boss_name_raw,
+                    "tier": tier,
+                    "start": start_date,
+                    "end": end_date,
+                    "image": img_url
+                })
         print(f"Successfully loaded {len(final_data['events'])} events.")
     except Exception as e:
         print(f"Error scraping events: {e}")
