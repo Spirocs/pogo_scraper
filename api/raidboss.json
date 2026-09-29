@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-28T18:51:20.155342+00:00",
+    "last_updated": "2026-09-29T03:00:08.331617+00:00",
     "raids": [
         {
             "name": "Dratini",
@@ -379,42 +379,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Marseille, France - Pokémon GO City Safari",
-            "type": "city-safari",
-            "start": "2026-09-26T08:00:00+00:00",
-            "end": "2026-09-27T16:00:00+00:00",
-            "is_local_time": false,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-marseille-2026/city-safari-marseille-2026.jpg",
-            "link": "https://leekduck.com/events/pokemon-go-city-safari-marseille-2026/"
-        },
-        {
-            "title": "Munich, Germany - Pokémon GO City Safari",
-            "type": "city-safari",
-            "start": "2026-09-26T08:00:00+00:00",
-            "end": "2026-09-27T16:00:00+00:00",
-            "is_local_time": false,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-munich-2026/city-safari-munich-2026.jpg",
-            "link": "https://leekduck.com/events/pokemon-go-city-safari-munich-2026/"
-        },
-        {
-            "title": "Lisbon, Portugal - Pokémon GO City Safari",
-            "type": "city-safari",
-            "start": "2026-09-26T09:00:00+00:00",
-            "end": "2026-09-27T17:00:00+00:00",
-            "is_local_time": false,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-lisbon-2026/city-safari-lisbon-2026.jpg",
-            "link": "https://leekduck.com/events/pokemon-go-city-safari-lisbon-2026/"
-        },
-        {
-            "title": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
-            "type": "city-safari",
-            "start": "2026-09-26T13:00:00+00:00",
-            "end": "2026-09-27T21:00:00+00:00",
-            "is_local_time": false,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-rio-de-janeiro-2026/city-safari-rio-de-janeiro-2026.jpg",
-            "link": "https://leekduck.com/events/pokemon-go-city-safari-rio-de-janeiro-2026/"
-        },
         {
             "title": "Choose Your Path: Twilight Trails",
             "type": "choose-your-path",
@@ -1010,15 +974,6 @@
             "link": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/"
         },
         {
-            "title": "Dynamax Sobble during Max Monday",
-            "type": "max-mondays",
-            "start": "2026-09-28T06:00:00",
-            "end": "2026-09-28T06:00:00",
-            "is_local_time": true,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-            "link": "https://leekduck.com/events/max-mondays-2026-09-28/"
-        },
-        {
             "title": "Harvest Festival 2026: Applin Picking",
             "type": "event",
             "start": "2026-09-29T10:00:00",
@@ -1512,6 +1467,183 @@
             "is_local_time": true,
             "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg",
             "link": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/"
+        }
+    ],
+    "scheduled_bosses": [
+        {
+            "name": "Mega Malamar",
+            "tier": "Mega",
+            "start": "2026-09-23T06:00:00",
+            "end": "2026-09-29T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
+        },
+        {
+            "name": "Xurkitree, Pheromosa, and Buzzwole",
+            "tier": "5-star",
+            "start": "2026-09-23T06:00:00",
+            "end": "2026-09-29T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/buzzwole-xurkitree-pheromosa-ultra-beasts.jpg"
+        },
+        {
+            "name": "Shadow Thundurus (Incarnate Forme)",
+            "tier": "Shadow",
+            "start": "2026-09-09T06:00:00",
+            "end": "2026-10-06T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg"
+        },
+        {
+            "name": "Mega Victreebel",
+            "tier": "Mega",
+            "start": "2026-09-30T06:00:00",
+            "end": "2026-10-06T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
+        },
+        {
+            "name": "Xerneas",
+            "tier": "5-star",
+            "start": "2026-09-30T06:00:00",
+            "end": "2026-10-06T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/xerneas-woods.jpg"
+        },
+        {
+            "name": "Mega Blastoise",
+            "tier": "Mega",
+            "start": "2026-10-07T06:00:00",
+            "end": "2026-10-13T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
+        },
+        {
+            "name": "Yveltal",
+            "tier": "5-star",
+            "start": "2026-10-07T06:00:00",
+            "end": "2026-10-13T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/yveltal-2.jpg"
+        },
+        {
+            "name": "Dialga",
+            "tier": "5-star",
+            "start": "2026-10-14T06:00:00",
+            "end": "2026-10-20T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/dialgaraids.jpg"
+        },
+        {
+            "name": "Mega Dragonite",
+            "tier": "Mega",
+            "start": "2026-10-14T06:00:00",
+            "end": "2026-10-20T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
+        },
+        {
+            "name": "Mega Charizard X and Mega Charizard Y",
+            "tier": "Mega",
+            "start": "2026-10-21T06:00:00",
+            "end": "2026-10-27T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
+        },
+        {
+            "name": "Palkia",
+            "tier": "5-star",
+            "start": "2026-10-21T06:00:00",
+            "end": "2026-10-27T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/palkiaraid.jpg"
+        },
+        {
+            "name": "Shadow Landorus (Incarnate Forme)",
+            "tier": "Shadow",
+            "start": "2026-10-07T06:00:00",
+            "end": "2026-11-03T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg"
+        },
+        {
+            "name": "Giratina (Origin Forme)",
+            "tier": "5-star",
+            "start": "2026-10-28T06:00:00",
+            "end": "2026-11-03T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/giratinaoriginforme.jpg"
+        },
+        {
+            "name": "Mega Sableye",
+            "tier": "Mega",
+            "start": "2026-10-28T06:00:00",
+            "end": "2026-11-03T22:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
+        },
+        {
+            "name": "Mega Victreebel",
+            "tier": "Mega",
+            "start": "2026-09-30T06:00:00",
+            "end": "2026-09-30T06:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
+        },
+        {
+            "name": "Xerneas",
+            "tier": "5-star",
+            "start": "2026-09-30T06:00:00",
+            "end": "2026-09-30T06:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/xerneas-woods.jpg"
+        },
+        {
+            "name": "Mega Blastoise",
+            "tier": "Mega",
+            "start": "2026-10-07T06:00:00",
+            "end": "2026-10-07T06:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
+        },
+        {
+            "name": "Shadow Landorus (Incarnate Forme)",
+            "tier": "Shadow",
+            "start": "2026-10-07T06:00:00",
+            "end": "2026-10-07T06:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/events-default-img.jpg"
+        },
+        {
+            "name": "Yveltal",
+            "tier": "5-star",
+            "start": "2026-10-07T06:00:00",
+            "end": "2026-10-07T06:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/yveltal-2.jpg"
+        },
+        {
+            "name": "Dialga",
+            "tier": "5-star",
+            "start": "2026-10-14T06:00:00",
+            "end": "2026-10-14T06:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/dialgaraids.jpg"
+        },
+        {
+            "name": "Mega Dragonite",
+            "tier": "Mega",
+            "start": "2026-10-14T06:00:00",
+            "end": "2026-10-14T06:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
+        },
+        {
+            "name": "Mega Charizard X and Mega Charizard Y",
+            "tier": "Mega",
+            "start": "2026-10-21T06:00:00",
+            "end": "2026-10-21T06:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
+        },
+        {
+            "name": "Palkia",
+            "tier": "5-star",
+            "start": "2026-10-21T06:00:00",
+            "end": "2026-10-21T06:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/palkiaraid.jpg"
+        },
+        {
+            "name": "Giratina (Origin Forme)",
+            "tier": "5-star",
+            "start": "2026-10-28T06:00:00",
+            "end": "2026-10-28T06:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/giratinaoriginforme.jpg"
+        },
+        {
+            "name": "Mega Sableye",
+            "tier": "Mega",
+            "start": "2026-10-28T06:00:00",
+            "end": "2026-10-28T06:00:00",
+            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
         }
     ]
 }
