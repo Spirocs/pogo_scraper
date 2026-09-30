@@ -1,70 +1,58 @@
 {
-    "last_updated": "2026-09-30T02:42:08.791727+00:00",
+    "last_updated": "2026-09-30T11:28:50.079615+00:00",
     "raids": [
         {
-            "name": "Dratini",
+            "name": "Galarian Farfetch'd",
             "tier": "1",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm147.icon.png",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm83.fGALARIAN.icon.png",
             "is_shadow": false
         },
         {
-            "name": "Larvitar",
+            "name": "Galarian Zigzagoon",
             "tier": "1",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm246.icon.png",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm263.fGALARIAN.icon.png",
             "is_shadow": false
         },
         {
-            "name": "Bagon",
+            "name": "Combee",
             "tier": "1",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm371.icon.png",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm415.icon.png",
             "is_shadow": false
         },
         {
-            "name": "Deino",
+            "name": "Honedge",
             "tier": "1",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm633.icon.png",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm679.icon.png",
             "is_shadow": false
         },
         {
-            "name": "Hisuian Typhlosion",
+            "name": "Miltank",
             "tier": "3",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm157.fHISUIAN.icon.png",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm241.icon.png",
             "is_shadow": false
         },
         {
-            "name": "Hisuian Samurott",
+            "name": "Hisuian Lilligant",
             "tier": "3",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm503.fHISUIAN.icon.png",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm549.fHISUIAN.icon.png",
             "is_shadow": false
         },
         {
-            "name": "Hisuian Decidueye",
+            "name": "Dondozo",
             "tier": "3",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm724.fHISUIAN.icon.png",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm977.icon.png",
             "is_shadow": false
         },
         {
-            "name": "Xurkitree",
+            "name": "Xerneas",
             "tier": "5",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm796.icon.png",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm716.icon.png",
             "is_shadow": false
         },
         {
-            "name": "Pheromosa",
-            "tier": "5",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm795.icon.png",
-            "is_shadow": false
-        },
-        {
-            "name": "Buzzwole",
-            "tier": "5",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.icon.png",
-            "is_shadow": false
-        },
-        {
-            "name": "Mega Malamar",
+            "name": "Mega Victreebel",
             "tier": "Mega",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png",
             "is_shadow": false
         },
         {
@@ -379,15 +367,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Choose Your Path: Twilight Trails",
-            "type": "choose-your-path",
-            "start": "2026-09-23T10:00:00",
-            "end": "2026-09-28T20:00:00",
-            "is_local_time": true,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/choose-your-path-twilight-trails-2026.jpg",
-            "link": "https://leekduck.com/events/choose-your-path-twilight-trails-2026/"
-        },
         {
             "title": "Dynamax Sobble during Max Monday",
             "type": "max-mondays",
