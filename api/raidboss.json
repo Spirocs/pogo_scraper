@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-01T02:46:49.304298+00:00",
+    "last_updated": "2026-10-01T11:57:11.725886+00:00",
     "raids": [
         {
             "name": "Galarian Farfetch'd",
@@ -367,42 +367,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Dynamax Sobble during Max Monday",
-            "type": "max-mondays",
-            "start": "2026-09-28T06:00:00",
-            "end": "2026-09-28T21:00:00",
-            "is_local_time": true,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/max-battles-kanto.jpg",
-            "link": "https://leekduck.com/events/max-mondays-2026-09-28/"
-        },
-        {
-            "title": "Ultra League, Master League: Mega Edition, and Retro Cup: Great League Edition | Twilight Trails",
-            "type": "go-battle-league",
-            "start": "2026-09-22T20:00:00+00:00",
-            "end": "2026-09-29T20:00:00+00:00",
-            "is_local_time": false,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "link": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-great-league-edition/"
-        },
-        {
-            "title": "Mega Malamar in Mega Raids",
-            "type": "raid-battles",
-            "start": "2026-09-23T06:00:00",
-            "end": "2026-09-29T22:00:00",
-            "is_local_time": true,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-            "link": "https://leekduck.com/events/mega-malamar-in-mega-raids-september-2026/"
-        },
-        {
-            "title": "Xurkitree, Pheromosa, and Buzzwole in 5-star Raid Battles",
-            "type": "raid-battles",
-            "start": "2026-09-23T06:00:00",
-            "end": "2026-09-29T22:00:00",
-            "is_local_time": true,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/buzzwole-xurkitree-pheromosa-ultra-beasts.jpg",
-            "link": "https://leekduck.com/events/xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026/"
-        },
         {
             "title": "Xerneas Raid Hour",
             "type": "raid-hour",
@@ -953,33 +917,6 @@
             "link": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/"
         },
         {
-            "title": "Mega Victreebel in Mega Raids",
-            "type": "raid-battles",
-            "start": "2026-09-30T06:00:00",
-            "end": "2026-09-30T06:00:00",
-            "is_local_time": true,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg",
-            "link": "https://leekduck.com/events/mega-victreebel-in-mega-raids-september-2026/"
-        },
-        {
-            "title": "Xerneas in 5-star Raid Battles",
-            "type": "raid-battles",
-            "start": "2026-09-30T06:00:00",
-            "end": "2026-09-30T06:00:00",
-            "is_local_time": true,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/xerneas-woods.jpg",
-            "link": "https://leekduck.com/events/xerneas-in-5-star-raid-battles-september-2026/"
-        },
-        {
-            "title": "Xerneas Raid Hour",
-            "type": "raid-hour",
-            "start": "2026-09-30T18:00:00",
-            "end": "2026-09-30T18:00:00",
-            "is_local_time": true,
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/raidhour.jpg",
-            "link": "https://leekduck.com/events/raidhour20260930/"
-        },
-        {
             "title": "Seedot Spotlight Hour",
             "type": "pokémon-spotlight-hour",
             "start": "2026-10-01T18:00:00",
@@ -1432,20 +1369,6 @@
     ],
     "scheduled_bosses": [
         {
-            "name": "Mega Malamar",
-            "tier": "Mega",
-            "start": "2026-09-23T06:00:00",
-            "end": "2026-09-29T22:00:00",
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
-        },
-        {
-            "name": "Xurkitree, Pheromosa, and Buzzwole",
-            "tier": "5-star",
-            "start": "2026-09-23T06:00:00",
-            "end": "2026-09-29T22:00:00",
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/buzzwole-xurkitree-pheromosa-ultra-beasts.jpg"
-        },
-        {
             "name": "Shadow Thundurus (Incarnate Forme)",
             "tier": "Shadow",
             "start": "2026-09-09T06:00:00",
@@ -1528,20 +1451,6 @@
             "start": "2026-10-28T06:00:00",
             "end": "2026-11-03T22:00:00",
             "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
-        },
-        {
-            "name": "Mega Victreebel",
-            "tier": "Mega",
-            "start": "2026-09-30T06:00:00",
-            "end": "2026-09-30T06:00:00",
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/mega-default.jpg"
-        },
-        {
-            "name": "Xerneas",
-            "tier": "5-star",
-            "start": "2026-09-30T06:00:00",
-            "end": "2026-09-30T06:00:00",
-            "image": "https://cdn.leekduck.com/cdn-cgi/image/fit=scale-down,height=95,quality=100,format=webp/assets/img/events/xerneas-woods.jpg"
         },
         {
             "name": "Mega Blastoise",
