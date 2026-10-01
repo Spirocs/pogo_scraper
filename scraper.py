@@ -78,6 +78,8 @@ def scrape_data():
         ev_response = requests.get("https://leekduck.com/events/", headers=headers)
         ev_soup = BeautifulSoup(ev_response.text, 'html.parser')
         
+        events_dict = {}
+        
         for item in ev_soup.find_all('span', class_='event-header-item-wrapper'):
             title_tag = item.find('h2')
             if not title_tag:
@@ -97,18 +99,21 @@ def scrape_data():
             link_tag = item.find('a', class_='event-item-link')
             link = f"https://leekduck.com{link_tag['href']}" if link_tag and 'href' in link_tag.attrs else ""
 
-            final_data["events"].append({
-                "title": title,
-                "type": event_type,
-                "start": start_date,
-                "end": end_date,
-                "is_local_time": is_local,
-                "link": link
-            })
+            if title not in events_dict:
+                events_dict[title] = {
+                    "title": title,
+                    "type": event_type,
+                    "start": start_date,
+                    "end": end_date,
+                    "is_local_time": is_local,
+                    "link": link
+                }
+            else:
+                if item.get('data-event-end-date'):
+                    events_dict[title]['end'] = item.get('data-event-end-date')
 
             if event_type == 'raid-battles' and " in " in title:
                 boss_name_raw = title.split(" in ")[0].strip()
-                
                 tier = "Unknown"
                 if "5-star" in title:
                     tier = "5-star"
@@ -124,10 +129,13 @@ def scrape_data():
                     "start": start_date,
                     "end": end_date,
                 })
+        
+        final_data["events"] = list(events_dict.values())
         print(f"Successfully loaded {len(final_data['events'])} events.")
     except Exception as e:
         print(f"Error scraping events: {e}")
 
+    
     # --- SAVE ---
     os.makedirs('api', exist_ok=True)
     with open('api/raidboss.json', 'w', encoding='utf-8') as f:
