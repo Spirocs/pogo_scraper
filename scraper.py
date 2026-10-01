@@ -48,19 +48,15 @@ def scrape_data():
         
         current_tab = mp_soup.find('div', id='wiki_tab0')
         if current_tab:
-            current_level = 1 # Standard-Level als Fallback
+            current_level = 1
             
-            # Wir gehen alle Tabellen und Absätze nacheinander durch
             for element in current_tab.find_all(['table', 'p']):
                 
-                # Wenn wir eine Tabelle finden, zählen wir die Level-Icons
                 if element.name == 'table' and 'wiki_noborder' in element.get('class', []):
-                    # Zählt, wie oft w_boss.png vorkommt (1, 2 oder 3)
                     icons = element.find_all('img', src=lambda s: s and 'w_boss.png' in s)
                     if len(icons) > 0:
                         current_level = len(icons)
                 
-                # Wenn wir einen Absatz finden, lesen wir die Bosse für das aktuelle Level aus
                 elif element.name == 'p':
                     for boss_span in element.find_all('span', class_='wiki_tier_boss'):
                         name_span = boss_span.find_all('span', recursive=False)[-1]
@@ -71,8 +67,7 @@ def scrape_data():
                         
                         final_data["max_battles"].append({
                             "name_jp": name,
-                            "level": f"tier_{current_level}", # Hier fügen wir das gefundene Level ein!
-                            "image": img_url
+                            "level": f"tier_{current_level}",
                         })
         print(f"Successfully loaded {len(final_data['max_battles'])} max battles.")
     except Exception as e:
@@ -108,12 +103,10 @@ def scrape_data():
                 "start": start_date,
                 "end": end_date,
                 "is_local_time": is_local,
-                "image": img_url,
                 "link": link
             })
 
             if event_type == 'raid-battles' and " in " in title:
-                # Schneidet den Namen ab, z.B. wird "Xerneas in 5-star Raid Battles" zu "Xerneas"
                 boss_name_raw = title.split(" in ")[0].strip()
                 
                 tier = "Unknown"
@@ -130,7 +123,6 @@ def scrape_data():
                     "tier": tier,
                     "start": start_date,
                     "end": end_date,
-                    "image": img_url
                 })
         print(f"Successfully loaded {len(final_data['events'])} events.")
     except Exception as e:
