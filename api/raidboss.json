@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-02T02:50:12.943935+00:00",
+    "last_updated": "2026-10-02T11:28:44.330713+00:00",
     "raids": [
         {
             "name": "Galarian Farfetch'd",
@@ -316,14 +316,6 @@
     ],
     "events": [
         {
-            "title": "Xerneas Raid Hour",
-            "type": "raid-hour",
-            "start": "2026-09-30T18:00:00",
-            "end": "2026-09-30T19:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/raidhour20260930/"
-        },
-        {
             "title": "LEGO Stores and Pokémon GO",
             "type": "event",
             "start": "2026-08-03T10:00:00",
@@ -572,12 +564,12 @@
             "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/"
         },
         {
-            "title": "Dynamax Max Battle Day",
+            "title": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
             "type": "max-battles",
             "start": "2026-10-24T14:00:00",
             "end": "2026-10-24T17:00:00",
             "is_local_time": true,
-            "link": "https://leekduck.com/events/max-battle-day-october-24-2026/"
+            "link": "https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2026/"
         },
         {
             "title": "Minior Showers: Orionids 2026",
