@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-02T11:28:44.330713+00:00",
+    "last_updated": "2026-10-02T16:55:46.903635+00:00",
     "raids": [
         {
             "name": "Galarian Farfetch'd",
@@ -316,14 +316,6 @@
     ],
     "events": [
         {
-            "title": "LEGO Stores and Pokémon GO",
-            "type": "event",
-            "start": "2026-08-03T10:00:00",
-            "end": "2026-09-30T23:59:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/lego-pokemon-go-2026/"
-        },
-        {
             "title": "Seedot Spotlight Hour",
             "type": "pokémon-spotlight-hour",
             "start": "2026-10-01T18:00:00",
@@ -570,6 +562,14 @@
             "end": "2026-10-24T17:00:00",
             "is_local_time": true,
             "link": "https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2026/"
+        },
+        {
+            "title": "Twitch Drops for Pokémon Night Out 2026",
+            "type": "twitch-drops",
+            "start": "2026-10-25T02:30:00+00:00",
+            "end": "2026-10-25T06:59:00+00:00",
+            "is_local_time": false,
+            "link": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/"
         },
         {
             "title": "Minior Showers: Orionids 2026",
