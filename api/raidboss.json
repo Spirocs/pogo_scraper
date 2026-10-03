@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-03T02:37:01.279731+00:00",
+    "last_updated": "2026-10-03T10:44:19.608162+00:00",
     "raids": [
         {
             "name": "Galarian Farfetch'd",
@@ -315,14 +315,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Seedot Spotlight Hour",
-            "type": "pokémon-spotlight-hour",
-            "start": "2026-10-01T18:00:00",
-            "end": "2026-10-01T19:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-01/"
-        },
         {
             "title": "Patterns of the Wild",
             "type": "event",
