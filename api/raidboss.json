@@ -1,28 +1,10 @@
 {
-    "last_updated": "2026-10-04T03:08:05.377997+00:00",
+    "last_updated": "2026-10-04T11:25:51.529219+00:00",
     "raids": [
         {
-            "name": "Galarian Farfetch'd",
+            "name": "Astronaut Pikachu",
             "tier": "1",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm83.fGALARIAN.icon.png",
-            "is_shadow": false
-        },
-        {
-            "name": "Galarian Zigzagoon",
-            "tier": "1",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm263.fGALARIAN.icon.png",
-            "is_shadow": false
-        },
-        {
-            "name": "Combee",
-            "tier": "1",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm415.icon.png",
-            "is_shadow": false
-        },
-        {
-            "name": "Honedge",
-            "tier": "1",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm679.icon.png",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGLASS_HELMET_2026.icon.png",
             "is_shadow": false
         },
         {
@@ -315,14 +297,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Patterns of the Wild",
-            "type": "event",
-            "start": "2026-10-02T10:00:00",
-            "end": "2026-10-02T20:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/patterns-of-the-wild-2026/"
-        },
         {
             "title": "Gigantamax Cinderace Max Battle Day",
             "type": "max-battles",
