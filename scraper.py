@@ -34,7 +34,6 @@ def scrape_data():
                     final_data["raids"].append({
                         "name": name,
                         "tier": tier_name,
-                        "image": img_url,
                         "is_shadow": 'shadow-raid-bosses' in raid_container.get('class', [])
                     })
         print(f"Successfully loaded {len(final_data['raids'])} raids.")
