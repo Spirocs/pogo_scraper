@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-07T02:59:39.280532+00:00",
+    "last_updated": "2026-10-07T12:11:17.441618+00:00",
     "raids": [
         {
             "name": "Astronaut Pikachu",
@@ -7,67 +7,67 @@
             "is_shadow": false
         },
         {
-            "name": "Miltank",
+            "name": "Starmie",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Hisuian Lilligant",
+            "name": "Umbreon",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Dondozo",
+            "name": "Gothitelle",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Xerneas",
+            "name": "Yveltal",
             "tier": "5",
             "is_shadow": false
         },
         {
-            "name": "Mega Victreebel",
+            "name": "Mega Blastoise",
             "tier": "Mega",
             "is_shadow": false
         },
         {
-            "name": "Shadow Machop",
+            "name": "Shadow Gastly",
             "tier": "1",
             "is_shadow": true
         },
         {
-            "name": "Shadow Bellsprout",
+            "name": "Shadow Totodile",
             "tier": "1",
             "is_shadow": true
         },
         {
-            "name": "Shadow Torchic",
+            "name": "Shadow Shieldon",
             "tier": "1",
             "is_shadow": true
         },
         {
-            "name": "Shadow Bagon",
+            "name": "Shadow Gible",
             "tier": "1",
             "is_shadow": true
         },
         {
-            "name": "Shadow Alolan Sandslash",
+            "name": "Shadow Primeape",
             "tier": "3",
             "is_shadow": true
         },
         {
-            "name": "Shadow Quagsire",
+            "name": "Shadow Kirlia",
             "tier": "3",
             "is_shadow": true
         },
         {
-            "name": "Shadow Lampent",
+            "name": "Shadow Drapion",
             "tier": "3",
             "is_shadow": true
         },
         {
-            "name": "Shadow Thundurus (Incarnate)",
+            "name": "Shadow Landorus (Incarnate)",
             "tier": "5",
             "is_shadow": true
         }
@@ -287,22 +287,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Harvest Festival 2026: Applin Picking",
-            "type": "event",
-            "start": "2026-09-29T10:00:00",
-            "end": "2026-10-05T20:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/harvest-festival-2026/"
-        },
-        {
-            "title": "Harvest Festival: Taken Over",
-            "type": "event",
-            "start": "2026-10-02T00:00:00",
-            "end": "2026-10-05T20:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/harvest-festival-taken-over-2026/"
-        },
         {
             "title": "Dynamax Sizzlipede during Max Monday",
             "type": "max-mondays",
