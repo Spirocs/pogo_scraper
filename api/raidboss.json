@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-07T12:11:17.441618+00:00",
+    "last_updated": "2026-10-07T22:21:40.626763+00:00",
     "raids": [
         {
             "name": "Astronaut Pikachu",
@@ -287,14 +287,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Dynamax Sizzlipede during Max Monday",
-            "type": "max-mondays",
-            "start": "2026-10-05T06:00:00",
-            "end": "2026-10-05T21:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/max-mondays-2026-10-05/"
-        },
         {
             "title": "GO Pass: September",
             "type": "go-pass",
@@ -832,24 +824,6 @@
             "tier": "Mega",
             "start": "2026-10-28T06:00:00",
             "end": "2026-11-03T22:00:00"
-        },
-        {
-            "name": "Mega Blastoise",
-            "tier": "Mega",
-            "start": "2026-10-07T06:00:00",
-            "end": "2026-10-07T06:00:00"
-        },
-        {
-            "name": "Shadow Landorus (Incarnate Forme)",
-            "tier": "Shadow",
-            "start": "2026-10-07T06:00:00",
-            "end": "2026-10-07T06:00:00"
-        },
-        {
-            "name": "Yveltal",
-            "tier": "5-star",
-            "start": "2026-10-07T06:00:00",
-            "end": "2026-10-07T06:00:00"
         },
         {
             "name": "Dialga",
