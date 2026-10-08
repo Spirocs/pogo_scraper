@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-07T22:21:40.626763+00:00",
+    "last_updated": "2026-10-08T03:16:23.402370+00:00",
     "raids": [
         {
             "name": "Astronaut Pikachu",
@@ -287,14 +287,6 @@
         }
     ],
     "events": [
-        {
-            "title": "GO Pass: September",
-            "type": "go-pass",
-            "start": "2026-09-08T10:00:00",
-            "end": "2026-10-06T10:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/go-pass-september-2026/"
-        },
         {
             "title": "Master League and Mega Color Cup: Great League Edition | Twilight Trails",
             "type": "go-battle-league",
