@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-08T12:21:31.567992+00:00",
+    "last_updated": "2026-10-08T22:34:09.351763+00:00",
     "raids": [
         {
             "name": "Astronaut Pikachu",
@@ -288,38 +288,6 @@
     ],
     "events": [
         {
-            "title": "Master League and Mega Color Cup: Great League Edition | Twilight Trails",
-            "type": "go-battle-league",
-            "start": "2026-09-29T20:00:00+00:00",
-            "end": "2026-10-06T20:00:00+00:00",
-            "is_local_time": false,
-            "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-color-cup-great-league-edition/"
-        },
-        {
-            "title": "Shadow Thundurus (Incarnate Forme) in Shadow Raids",
-            "type": "raid-battles",
-            "start": "2026-09-09T06:00:00",
-            "end": "2026-10-06T22:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026/"
-        },
-        {
-            "title": "Mega Victreebel in Mega Raids",
-            "type": "raid-battles",
-            "start": "2026-09-30T06:00:00",
-            "end": "2026-10-06T22:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/mega-victreebel-in-mega-raids-september-2026/"
-        },
-        {
-            "title": "Xerneas in 5-star Raid Battles",
-            "type": "raid-battles",
-            "start": "2026-09-30T06:00:00",
-            "end": "2026-10-06T22:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/xerneas-in-5-star-raid-battles-september-2026/"
-        },
-        {
             "title": "Yveltal Raid Hour",
             "type": "raid-hour",
             "start": "2026-10-07T18:00:00",
@@ -600,7 +568,7 @@
             "link": "https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/"
         },
         {
-            "title": "Halloween 2026 Part II",
+            "title": "Pokémon GO Halloween 2026 Part II",
             "type": "event",
             "start": "2026-11-01T10:00:00",
             "end": "2026-11-05T20:00:00",
@@ -745,24 +713,6 @@
         }
     ],
     "scheduled_bosses": [
-        {
-            "name": "Shadow Thundurus (Incarnate Forme)",
-            "tier": "Shadow",
-            "start": "2026-09-09T06:00:00",
-            "end": "2026-10-06T22:00:00"
-        },
-        {
-            "name": "Mega Victreebel",
-            "tier": "Mega",
-            "start": "2026-09-30T06:00:00",
-            "end": "2026-10-06T22:00:00"
-        },
-        {
-            "name": "Xerneas",
-            "tier": "5-star",
-            "start": "2026-09-30T06:00:00",
-            "end": "2026-10-06T22:00:00"
-        },
         {
             "name": "Mega Blastoise",
             "tier": "Mega",
