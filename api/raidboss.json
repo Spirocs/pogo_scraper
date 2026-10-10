@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-10T16:28:54.601823+00:00",
+    "last_updated": "2026-10-10T20:47:53.624684+00:00",
     "raids": [
         {
             "name": "Astronaut Pikachu",
@@ -287,14 +287,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Elgyem Spotlight Hour",
-            "type": "pokémon-spotlight-hour",
-            "start": "2026-10-08T18:00:00",
-            "end": "2026-10-08T19:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-08/"
-        },
         {
             "title": "Zorua Community Day",
             "type": "community-day",
