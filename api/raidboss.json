@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-12T13:42:41.122023+00:00",
+    "last_updated": "2026-10-12T23:53:20.729935+00:00",
     "raids": [
         {
             "name": "Clefairy",
@@ -302,22 +302,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Zorua Community Day",
-            "type": "community-day",
-            "start": "2026-10-10T14:00:00",
-            "end": "2026-10-10T17:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/october-communityday2026/"
-        },
-        {
-            "title": "World Space Week 2026",
-            "type": "event",
-            "start": "2026-10-04T00:00:00",
-            "end": "2026-10-10T23:59:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/world-space-week-2026/"
-        },
         {
             "title": "Dynamax Rookidee during Max Monday",
             "type": "max-mondays",
