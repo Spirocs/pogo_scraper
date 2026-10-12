@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-12T02:57:01.329099+00:00",
+    "last_updated": "2026-10-12T13:42:41.122023+00:00",
     "raids": [
         {
             "name": "Clefairy",
@@ -89,7 +89,7 @@
     ],
     "max_battles": [
         {
-            "name_jp": "ヤクデ",
+            "name_jp": "ココガラ",
             "level": "tier_1"
         },
         {
@@ -217,7 +217,7 @@
             "level": "tier_1"
         },
         {
-            "name_jp": "ココガラ",
+            "name_jp": "ヤクデ",
             "level": "tier_1"
         },
         {
