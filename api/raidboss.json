@@ -1,8 +1,23 @@
 {
-    "last_updated": "2026-10-11T21:09:02.633574+00:00",
+    "last_updated": "2026-10-12T02:57:01.329099+00:00",
     "raids": [
         {
-            "name": "Astronaut Pikachu",
+            "name": "Clefairy",
+            "tier": "1",
+            "is_shadow": false
+        },
+        {
+            "name": "Teddiursa",
+            "tier": "1",
+            "is_shadow": false
+        },
+        {
+            "name": "Elgyem",
+            "tier": "1",
+            "is_shadow": false
+        },
+        {
+            "name": "Amaura",
             "tier": "1",
             "is_shadow": false
         },
