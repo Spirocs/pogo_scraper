@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-13T13:03:31.167692+00:00",
+    "last_updated": "2026-10-13T22:01:41.141493+00:00",
     "raids": [
         {
             "name": "Clefairy",
@@ -495,12 +495,12 @@
             "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/"
         },
         {
-            "title": "Super Mega Raid Day",
+            "title": "Chandelure Super Mega Raid Day",
             "type": "raid-day",
             "start": "2026-10-31T14:00:00",
-            "end": "2026-11-28T17:00:00",
+            "end": "2026-10-31T17:00:00",
             "is_local_time": true,
-            "link": "https://leekduck.com/events/super-mega-raid-day-october-2026/"
+            "link": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/"
         },
         {
             "title": "Pokémon GO Halloween 2026 Part I",
@@ -613,6 +613,14 @@
             "end": "2026-11-25T21:00:00+00:00",
             "is_local_time": false,
             "link": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/"
+        },
+        {
+            "title": "Super Mega Raid Day",
+            "type": "raid-day",
+            "start": "2026-11-28T14:00:00",
+            "end": "2026-11-28T17:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/super-mega-raid-day-november-2026/"
         },
         {
             "title": "Twilight Trails",
