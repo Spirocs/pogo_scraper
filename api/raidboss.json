@@ -1,48 +1,48 @@
 {
-    "last_updated": "2026-10-14T02:25:08.738535+00:00",
+    "last_updated": "2026-10-14T10:45:05.720889+00:00",
     "raids": [
         {
-            "name": "Clefairy",
+            "name": "Galarian Slowpoke",
             "tier": "1",
             "is_shadow": false
         },
         {
-            "name": "Teddiursa",
+            "name": "Hisuian Voltorb",
             "tier": "1",
             "is_shadow": false
         },
         {
-            "name": "Elgyem",
+            "name": "Nincada",
             "tier": "1",
             "is_shadow": false
         },
         {
-            "name": "Amaura",
+            "name": "Beldum",
             "tier": "1",
             "is_shadow": false
         },
         {
-            "name": "Starmie",
+            "name": "Hisuian Arcanine",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Umbreon",
+            "name": "Snorlax",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Gothitelle",
+            "name": "Kleavor",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Yveltal",
+            "name": "Dialga",
             "tier": "5",
             "is_shadow": false
         },
         {
-            "name": "Mega Blastoise",
+            "name": "Mega Dragonite",
             "tier": "Mega",
             "is_shadow": false
         },
@@ -445,6 +445,14 @@
             "end": "2026-10-24T23:59:00",
             "is_local_time": true,
             "link": "https://leekduck.com/events/minior-showers-orionids-2026/"
+        },
+        {
+            "title": "Pokémon GO City Safari: Boston (Rescheduled)",
+            "type": "city-safari",
+            "start": "2026-10-24T10:00:00",
+            "end": "2026-10-25T18:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/pokemon-go-city-safari-boston-2026-rescheduled/"
         },
         {
             "title": "Dynamax Sableye during Max Monday",
