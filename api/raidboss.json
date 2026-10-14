@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-14T16:04:17.508572+00:00",
+    "last_updated": "2026-10-14T21:03:02.880717+00:00",
     "raids": [
         {
             "name": "Galarian Slowpoke",
@@ -303,14 +303,6 @@
     ],
     "events": [
         {
-            "title": "Dynamax Rookidee during Max Monday",
-            "type": "max-mondays",
-            "start": "2026-10-12T06:00:00",
-            "end": "2026-10-12T21:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/max-mondays-2026-10-12/"
-        },
-        {
             "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
             "type": "go-battle-league",
             "start": "2026-10-06T20:00:00+00:00",
@@ -583,6 +575,14 @@
             "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/"
         },
         {
+            "title": "Into the Wild",
+            "type": "event",
+            "start": "2026-11-09T10:00:00",
+            "end": "2026-11-13T20:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/into-the-wild-2026/"
+        },
+        {
             "title": "Pokémon GO Wild Area 2026: Global",
             "type": "wild-area",
             "start": "2026-11-14T10:00:00",
@@ -765,18 +765,6 @@
             "tier": "Mega",
             "start": "2026-10-28T06:00:00",
             "end": "2026-11-03T22:00:00"
-        },
-        {
-            "name": "Dialga",
-            "tier": "5-star",
-            "start": "2026-10-14T06:00:00",
-            "end": "2026-10-14T06:00:00"
-        },
-        {
-            "name": "Mega Dragonite",
-            "tier": "Mega",
-            "start": "2026-10-14T06:00:00",
-            "end": "2026-10-14T06:00:00"
         },
         {
             "name": "Mega Charizard X and Mega Charizard Y",
