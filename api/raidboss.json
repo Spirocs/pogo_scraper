@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-16T20:10:08.450638+00:00",
+    "last_updated": "2026-10-17T01:51:01.891412+00:00",
     "raids": [
         {
             "name": "Galarian Slowpoke",
@@ -302,30 +302,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Mega Blastoise in Mega Raids",
-            "type": "raid-battles",
-            "start": "2026-10-07T06:00:00",
-            "end": "2026-10-13T22:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/mega-blastoise-in-mega-raids-october-2026/"
-        },
-        {
-            "title": "Yveltal in 5-star Raid Battles",
-            "type": "raid-battles",
-            "start": "2026-10-07T06:00:00",
-            "end": "2026-10-13T22:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/yveltal-in-5-star-raid-battles-october-2026/"
-        },
-        {
-            "title": "Dialga Raid Hour",
-            "type": "raid-hour",
-            "start": "2026-10-14T18:00:00",
-            "end": "2026-10-14T19:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/raidhour20261014/"
-        },
         {
             "title": "Stufful Spotlight Hour",
             "type": "pokémon-spotlight-hour",
@@ -712,18 +688,6 @@
         }
     ],
     "scheduled_bosses": [
-        {
-            "name": "Mega Blastoise",
-            "tier": "Mega",
-            "start": "2026-10-07T06:00:00",
-            "end": "2026-10-13T22:00:00"
-        },
-        {
-            "name": "Yveltal",
-            "tier": "5-star",
-            "start": "2026-10-07T06:00:00",
-            "end": "2026-10-13T22:00:00"
-        },
         {
             "name": "Dialga",
             "tier": "5-star",
