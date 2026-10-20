@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-20T15:55:48.059512+00:00",
+    "last_updated": "2026-10-20T20:57:55.144824+00:00",
     "raids": [
         {
             "name": "Galarian Slowpoke",
@@ -737,6 +737,14 @@
             "end": "2026-12-01T10:00:00",
             "is_local_time": true,
             "link": "https://leekduck.com/events/season-24-twilight-trails/"
+        },
+        {
+            "title": "GO Pass: November",
+            "type": "go-pass",
+            "start": "2026-11-03T10:00:00",
+            "end": "2026-12-01T10:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/go-pass-november-2026/"
         },
         {
             "title": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
