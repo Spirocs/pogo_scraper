@@ -1,48 +1,53 @@
 {
-    "last_updated": "2026-10-21T02:16:05.347315+00:00",
+    "last_updated": "2026-10-21T10:43:55.490194+00:00",
     "raids": [
         {
-            "name": "Galarian Slowpoke",
+            "name": "Axew",
             "tier": "1",
             "is_shadow": false
         },
         {
-            "name": "Hisuian Voltorb",
+            "name": "Goomy",
             "tier": "1",
             "is_shadow": false
         },
         {
-            "name": "Nincada",
+            "name": "Jangmo-o",
             "tier": "1",
             "is_shadow": false
         },
         {
-            "name": "Beldum",
+            "name": "Frigibax",
             "tier": "1",
             "is_shadow": false
         },
         {
-            "name": "Hisuian Arcanine",
+            "name": "Alolan Raichu",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Snorlax",
+            "name": "Alolan Ninetales",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Kleavor",
+            "name": "Alolan Muk",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Dialga",
+            "name": "Palkia",
             "tier": "5",
             "is_shadow": false
         },
         {
-            "name": "Mega Dragonite",
+            "name": "Mega Charizard X",
+            "tier": "Mega",
+            "is_shadow": false
+        },
+        {
+            "name": "Mega Charizard Y",
             "tier": "Mega",
             "is_shadow": false
         },
