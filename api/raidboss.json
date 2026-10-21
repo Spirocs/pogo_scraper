@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-21T16:12:38.404143+00:00",
+    "last_updated": "2026-10-21T20:57:43.184117+00:00",
     "raids": [
         {
             "name": "Axew",
@@ -311,22 +311,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Fall Marathon: Buddy Trek",
-            "type": "event",
-            "start": "2026-10-13T10:00:00",
-            "end": "2026-10-19T20:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/"
-        },
-        {
-            "title": "Dynamax Sneasel during Max Monday",
-            "type": "max-mondays",
-            "start": "2026-10-19T06:00:00",
-            "end": "2026-10-19T21:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/max-mondays-2026-10-19/"
-        },
         {
             "title": "Great League, Ultra League: Mega Edition, and Little Cup | Twilight Trails",
             "type": "go-battle-league",
@@ -648,7 +632,7 @@
             "link": "https://leekduck.com/events/minior-showers-leonids-2026/"
         },
         {
-            "title": "November Community Day",
+            "title": "Pawniard Community Day",
             "type": "community-day",
             "start": "2026-11-21T14:00:00",
             "end": "2026-11-21T17:00:00",
@@ -924,18 +908,6 @@
             "tier": "Mega",
             "start": "2026-11-25T06:00:00",
             "end": "2026-12-01T22:00:00"
-        },
-        {
-            "name": "Mega Charizard X and Mega Charizard Y",
-            "tier": "Mega",
-            "start": "2026-10-21T06:00:00",
-            "end": "2026-10-21T06:00:00"
-        },
-        {
-            "name": "Palkia",
-            "tier": "5-star",
-            "start": "2026-10-21T06:00:00",
-            "end": "2026-10-21T06:00:00"
         },
         {
             "name": "Giratina (Origin Forme)",
