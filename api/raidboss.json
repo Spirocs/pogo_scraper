@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-22T02:10:16.873293+00:00",
+    "last_updated": "2026-10-22T10:45:39.145560+00:00",
     "raids": [
         {
             "name": "Axew",
@@ -311,14 +311,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Great League, Ultra League: Mega Edition, and Little Cup | Twilight Trails",
-            "type": "go-battle-league",
-            "start": "2026-10-13T20:00:00+00:00",
-            "end": "2026-10-20T20:00:00+00:00",
-            "is_local_time": false,
-            "link": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup/"
-        },
         {
             "title": "Pokémon TCG: 30th Celebration",
             "type": "event",
