@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-23T20:43:36.408398+00:00",
+    "last_updated": "2026-10-24T02:14:09.257526+00:00",
     "raids": [
         {
             "name": "Axew",
@@ -311,14 +311,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Palkia Raid Hour",
-            "type": "raid-hour",
-            "start": "2026-10-21T18:00:00",
-            "end": "2026-10-21T19:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/raidhour20261021/"
-        },
         {
             "title": "Morelull Spotlight Hour",
             "type": "pokémon-spotlight-hour",
