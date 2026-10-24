@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-24T14:57:55.349604+00:00",
+    "last_updated": "2026-10-24T19:54:42.290204+00:00",
     "raids": [
         {
             "name": "Axew",
@@ -311,14 +311,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Morelull Spotlight Hour",
-            "type": "pokémon-spotlight-hour",
-            "start": "2026-10-22T18:00:00",
-            "end": "2026-10-22T19:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/"
-        },
         {
             "title": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
             "type": "max-battles",
