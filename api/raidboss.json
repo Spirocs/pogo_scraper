@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-25T20:05:04.065662+00:00",
+    "last_updated": "2026-10-26T02:02:15.794745+00:00",
     "raids": [
         {
             "name": "Axew",
@@ -323,7 +323,7 @@
             "title": "Twitch Drops for Pokémon Night Out 2026",
             "type": "twitch-drops",
             "start": "2026-10-25T02:30:00+00:00",
-            "end": "2026-10-25T06:59:00+00:00",
+            "end": "2026-10-25T05:18:00+00:00",
             "is_local_time": false,
             "link": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/"
         },
@@ -331,7 +331,7 @@
             "title": "Pokémon Night Out 2026 - Los Angeles",
             "type": "event",
             "start": "2026-10-25T02:30:00+00:00",
-            "end": "2026-10-25T06:59:59+00:00",
+            "end": "2026-10-25T05:18:00+00:00",
             "is_local_time": false,
             "link": "https://leekduck.com/events/pokemon-night-out-los-angeles-2026/"
         },
