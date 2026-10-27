@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-27T02:39:46.316173+00:00",
+    "last_updated": "2026-10-27T11:10:29.081247+00:00",
     "raids": [
         {
             "name": "Axew",
@@ -315,14 +315,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Pokémon GO City Safari: Boston (Rescheduled)",
-            "type": "city-safari",
-            "start": "2026-10-24T10:00:00",
-            "end": "2026-10-25T18:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/pokemon-go-city-safari-boston-2026-rescheduled/"
-        },
         {
             "title": "Dynamax Sableye during Max Monday",
             "type": "max-mondays",
