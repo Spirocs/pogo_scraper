@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-28T11:44:47.138462+00:00",
+    "last_updated": "2026-10-28T17:30:45.751254+00:00",
     "raids": [
         {
             "name": "Pikachu wearing a hat and capelet",
@@ -301,14 +301,6 @@
     ],
     "events": [
         {
-            "title": "Dynamax Sableye during Max Monday",
-            "type": "max-mondays",
-            "start": "2026-10-26T06:00:00",
-            "end": "2026-10-26T21:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/max-mondays-2026-10-26/"
-        },
-        {
             "title": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
             "type": "go-battle-league",
             "start": "2026-10-20T20:00:00+00:00",
@@ -525,12 +517,28 @@
             "link": "https://leekduck.com/events/raidhour20261118/"
         },
         {
+            "title": "Grookey, Scorbunny, and Sobble Spotlight Hour",
+            "type": "pokémon-spotlight-hour",
+            "start": "2026-11-19T18:00:00",
+            "end": "2026-11-19T19:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/"
+        },
+        {
             "title": "Minior Showers: Leonids 2026",
             "type": "event",
             "start": "2026-11-14T17:00:00",
             "end": "2026-11-19T23:59:00",
             "is_local_time": true,
             "link": "https://leekduck.com/events/minior-showers-leonids-2026/"
+        },
+        {
+            "title": "Eternamax Eternatus Returns",
+            "type": "max-battles",
+            "start": "2026-11-21T11:00:00",
+            "end": "2026-11-21T14:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/"
         },
         {
             "title": "Pawniard Community Day",
@@ -797,18 +805,6 @@
             "tier": "Mega",
             "start": "2026-11-25T06:00:00",
             "end": "2026-12-01T22:00:00"
-        },
-        {
-            "name": "Giratina (Origin Forme)",
-            "tier": "5-star",
-            "start": "2026-10-28T06:00:00",
-            "end": "2026-10-28T06:00:00"
-        },
-        {
-            "name": "Mega Sableye",
-            "tier": "Mega",
-            "start": "2026-10-28T06:00:00",
-            "end": "2026-10-28T06:00:00"
         },
         {
             "name": "Giratina (Altered Forme)",
