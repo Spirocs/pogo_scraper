@@ -1,53 +1,38 @@
 {
-    "last_updated": "2026-10-28T02:48:37.317915+00:00",
+    "last_updated": "2026-10-28T11:44:47.138462+00:00",
     "raids": [
         {
-            "name": "Axew",
+            "name": "Pikachu wearing a hat and capelet",
             "tier": "1",
             "is_shadow": false
         },
         {
-            "name": "Goomy",
+            "name": "Sinistea wearing a bow",
             "tier": "1",
             "is_shadow": false
         },
         {
-            "name": "Jangmo-o",
-            "tier": "1",
-            "is_shadow": false
-        },
-        {
-            "name": "Frigibax",
-            "tier": "1",
-            "is_shadow": false
-        },
-        {
-            "name": "Alolan Raichu",
+            "name": "Cofagrigus",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Alolan Ninetales",
+            "name": "Trevenant",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Alolan Muk",
+            "name": "Dhelmise",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Palkia",
+            "name": "Giratina (Origin)",
             "tier": "5",
             "is_shadow": false
         },
         {
-            "name": "Mega Charizard X",
-            "tier": "Mega",
-            "is_shadow": false
-        },
-        {
-            "name": "Mega Charizard Y",
+            "name": "Mega Sableye",
             "tier": "Mega",
             "is_shadow": false
         },
