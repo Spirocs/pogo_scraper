@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-29T03:10:30.787928+00:00",
+    "last_updated": "2026-10-29T11:53:07.381375+00:00",
     "raids": [
         {
             "name": "Pikachu wearing a hat and capelet",
@@ -300,14 +300,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
-            "type": "go-battle-league",
-            "start": "2026-10-20T20:00:00+00:00",
-            "end": "2026-10-27T20:00:00+00:00",
-            "is_local_time": false,
-            "link": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition/"
-        },
         {
             "title": "Mega Charizard X and Mega Charizard Y in Mega Raids",
             "type": "raid-battles",
