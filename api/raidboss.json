@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-31T11:20:14.858876+00:00",
+    "last_updated": "2026-10-31T16:25:14.153539+00:00",
     "raids": [
         {
             "name": "Pikachu wearing a hat and capelet",
@@ -300,38 +300,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Mega Charizard X and Mega Charizard Y in Mega Raids",
-            "type": "raid-battles",
-            "start": "2026-10-21T06:00:00",
-            "end": "2026-10-27T22:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/"
-        },
-        {
-            "title": "Palkia in 5-star Raid Battles",
-            "type": "raid-battles",
-            "start": "2026-10-21T06:00:00",
-            "end": "2026-10-27T22:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/"
-        },
-        {
-            "title": "Giratina (Origin Forme) Raid Hour",
-            "type": "raid-hour",
-            "start": "2026-10-28T18:00:00",
-            "end": "2026-10-28T19:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/raidhour20261028/"
-        },
-        {
-            "title": "Gastly Spotlight Hour",
-            "type": "pokémon-spotlight-hour",
-            "start": "2026-10-29T18:00:00",
-            "end": "2026-10-29T19:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/"
-        },
         {
             "title": "Chandelure Super Mega Raid Day",
             "type": "raid-day",
@@ -726,18 +694,6 @@
         }
     ],
     "scheduled_bosses": [
-        {
-            "name": "Mega Charizard X and Mega Charizard Y",
-            "tier": "Mega",
-            "start": "2026-10-21T06:00:00",
-            "end": "2026-10-27T22:00:00"
-        },
-        {
-            "name": "Palkia",
-            "tier": "5-star",
-            "start": "2026-10-21T06:00:00",
-            "end": "2026-10-27T22:00:00"
-        },
         {
             "name": "Shadow Landorus (Incarnate Forme)",
             "tier": "Shadow",
