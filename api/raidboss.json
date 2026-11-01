@@ -1,39 +1,9 @@
 {
-    "last_updated": "2026-10-31T20:44:14.738771+00:00",
+    "last_updated": "2026-11-01T02:53:19.847082+00:00",
     "raids": [
         {
-            "name": "Pikachu wearing a hat and capelet",
-            "tier": "1",
-            "is_shadow": false
-        },
-        {
-            "name": "Sinistea wearing a bow",
-            "tier": "1",
-            "is_shadow": false
-        },
-        {
-            "name": "Cofagrigus",
-            "tier": "3",
-            "is_shadow": false
-        },
-        {
-            "name": "Trevenant",
-            "tier": "3",
-            "is_shadow": false
-        },
-        {
-            "name": "Dhelmise",
-            "tier": "3",
-            "is_shadow": false
-        },
-        {
-            "name": "Giratina (Origin)",
-            "tier": "5",
-            "is_shadow": false
-        },
-        {
-            "name": "Mega Sableye",
-            "tier": "Mega",
+            "name": "Mega Chandelure",
+            "tier": "Super Mega",
             "is_shadow": false
         },
         {
