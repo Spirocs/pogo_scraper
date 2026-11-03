@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-03T00:07:22.965662+00:00",
+    "last_updated": "2026-11-03T13:08:40.074798+00:00",
     "raids": [
         {
             "name": "Pikachu wearing a hat and capelet",
@@ -296,14 +296,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Pokémon GO Halloween 2026 Part I",
-            "type": "event",
-            "start": "2026-10-27T10:00:00",
-            "end": "2026-11-01T10:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/halloween-2026-part-1/"
-        },
         {
             "title": "Dynamax Machop during Max Monday",
             "type": "max-mondays",
