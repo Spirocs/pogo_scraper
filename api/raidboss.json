@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-02T13:59:38.358478+00:00",
+    "last_updated": "2026-11-03T00:07:22.965662+00:00",
     "raids": [
         {
             "name": "Pikachu wearing a hat and capelet",
@@ -296,14 +296,6 @@
         }
     ],
     "events": [
-        {
-            "title": "Chandelure Super Mega Raid Day",
-            "type": "raid-day",
-            "start": "2026-10-31T14:00:00",
-            "end": "2026-10-31T17:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/"
-        },
         {
             "title": "Pokémon GO Halloween 2026 Part I",
             "type": "event",
