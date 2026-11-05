@@ -1,13 +1,23 @@
 {
-    "last_updated": "2026-11-05T13:37:35.620746+00:00",
+    "last_updated": "2026-11-05T22:58:10.204067+00:00",
     "raids": [
         {
-            "name": "Pikachu wearing a hat and capelet",
+            "name": "Duskull",
             "tier": "1",
             "is_shadow": false
         },
         {
-            "name": "Sinistea wearing a bow",
+            "name": "Frillish",
+            "tier": "1",
+            "is_shadow": false
+        },
+        {
+            "name": "Frillish (Female)",
+            "tier": "1",
+            "is_shadow": false
+        },
+        {
+            "name": "Litwick",
             "tier": "1",
             "is_shadow": false
         },
@@ -27,7 +37,7 @@
             "is_shadow": false
         },
         {
-            "name": "Giratina (Origin)",
+            "name": "Giratina (Altered)",
             "tier": "5",
             "is_shadow": false
         },
@@ -297,46 +307,6 @@
     ],
     "events": [
         {
-            "title": "Dynamax Machop during Max Monday",
-            "type": "max-mondays",
-            "start": "2026-11-02T06:00:00",
-            "end": "2026-11-02T21:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/max-mondays-2026-11-02/"
-        },
-        {
-            "title": "GO Pass: October",
-            "type": "go-pass",
-            "start": "2026-10-06T10:00:00",
-            "end": "2026-11-03T10:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/go-pass-october-2026/"
-        },
-        {
-            "title": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
-            "type": "go-battle-league",
-            "start": "2026-10-27T20:00:00+00:00",
-            "end": "2026-11-03T21:00:00+00:00",
-            "is_local_time": false,
-            "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition/"
-        },
-        {
-            "title": "Shadow Landorus (Incarnate Forme) in Shadow Raids",
-            "type": "raid-battles",
-            "start": "2026-10-07T06:00:00",
-            "end": "2026-11-03T22:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/"
-        },
-        {
-            "title": "Giratina (Origin Forme) in 5-star Raid Battles",
-            "type": "raid-battles",
-            "start": "2026-10-28T06:00:00",
-            "end": "2026-11-03T22:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battles-october-2026/"
-        },
-        {
             "title": "Giratina (Altered Forme) Raid Hour",
             "type": "raid-hour",
             "start": "2026-11-04T18:00:00",
@@ -545,12 +515,12 @@
             "link": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/"
         },
         {
-            "title": "Super Mega Raid Day",
+            "title": "Clefable Super Mega Raid Day",
             "type": "raid-day",
             "start": "2026-11-28T14:00:00",
             "end": "2026-11-28T17:00:00",
             "is_local_time": true,
-            "link": "https://leekduck.com/events/super-mega-raid-day-november-2026/"
+            "link": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/"
         },
         {
             "title": "Twilight Wishes",
@@ -675,18 +645,6 @@
     ],
     "scheduled_bosses": [
         {
-            "name": "Shadow Landorus (Incarnate Forme)",
-            "tier": "Shadow",
-            "start": "2026-10-07T06:00:00",
-            "end": "2026-11-03T22:00:00"
-        },
-        {
-            "name": "Giratina (Origin Forme)",
-            "tier": "5-star",
-            "start": "2026-10-28T06:00:00",
-            "end": "2026-11-03T22:00:00"
-        },
-        {
             "name": "Mega Sableye",
             "tier": "Mega",
             "start": "2026-10-28T06:00:00",
@@ -733,18 +691,6 @@
             "tier": "Mega",
             "start": "2026-11-25T06:00:00",
             "end": "2026-12-01T22:00:00"
-        },
-        {
-            "name": "Giratina (Altered Forme)",
-            "tier": "5-star",
-            "start": "2026-11-04T06:00:00",
-            "end": "2026-11-04T06:00:00"
-        },
-        {
-            "name": "Shadow Tornadus (Incarnate Forme)",
-            "tier": "Shadow",
-            "start": "2026-11-04T06:00:00",
-            "end": "2026-11-04T06:00:00"
         },
         {
             "name": "Cresselia and Darkrai",
