@@ -72,7 +72,7 @@ def scrape_data():
     except Exception as e:
         print(f"Error scraping max battles: {e}")
 
-    # --- 3. LEEKDUCK EVENTS ---
+    # --- 3. LEEKDUCK EVENTS & SCHEDULED BOSSES ---
     try:
         ev_response = requests.get("https://leekduck.com/events/", headers=headers)
         ev_soup = BeautifulSoup(ev_response.text, 'html.parser')
@@ -89,11 +89,6 @@ def scrape_data():
             start_date = item.get('data-event-start-date') or item.get('data-event-start-date-check')
             end_date = item.get('data-event-end-date') or item.get('data-event-date-sort')
             is_local = item.get('data-event-local-time') == 'true'
-            
-            img_tag = item.find('span', class_='event-img-wrapper')
-            img_url = ""
-            if img_tag and img_tag.find('img'):
-                img_url = img_tag.find('img').get('src', '')
 
             link_tag = item.find('a', class_='event-item-link')
             link = f"https://leekduck.com{link_tag['href']}" if link_tag and 'href' in link_tag.attrs else ""
@@ -108,32 +103,86 @@ def scrape_data():
                     "link": link
                 }
             else:
+                if item.get('data-event-start-date') and not events_dict[title].get('start'):
+                    events_dict[title]['start'] = item.get('data-event-start-date')
                 if item.get('data-event-end-date'):
                     events_dict[title]['end'] = item.get('data-event-end-date')
 
+        final_data["events"] = list(events_dict.values())
+        final_data["scheduled_bosses"] = []
+        seen_scheduled = set()
+
+        for ev in final_data["events"]:
+            title = ev["title"]
+            event_type = ev["type"]
+            start_date = ev["start"]
+            end_date = ev["end"]
+            link = ev.get("link", "")
+
+            if not start_date or not end_date or start_date == end_date:
+                continue
+
+            # A) Klassische "Boss in 5-star/Mega/Shadow Raids" Einträge (nach dem Merge!)
             if event_type == 'raid-battles' and " in " in title:
                 boss_name_raw = title.split(" in ")[0].strip()
                 tier = "Unknown"
-                if "5-star" in title:
+                if "5-star" in title or "5-Star" in title:
                     tier = "5-star"
                 elif "Mega" in title:
                     tier = "Mega"
                 elif "Shadow" in title:
                     tier = "Shadow"
-                    
-                final_data["scheduled_bosses"] = final_data.get("scheduled_bosses", [])
-                final_data["scheduled_bosses"].append({
-                    "name": boss_name_raw,
-                    "tier": tier,
-                    "start": start_date,
-                    "end": end_date,
-                })
-        
-        final_data["events"] = list(events_dict.values())
-        print(f"Successfully loaded {len(final_data['events'])} events.")
+
+                key = (boss_name_raw.lower(), tier, start_date, end_date)
+                if key not in seen_scheduled:
+                    seen_scheduled.add(key)
+                    final_data["scheduled_bosses"].append({
+                        "name": boss_name_raw,
+                        "tier": tier,
+                        "start": start_date,
+                        "end": end_date,
+                    })
+
+            # B) Event-Unterseiten (z.B. "Into the Wild 2026") nach 5-Star / Mega Raids durchsuchen
+            elif event_type in ('event', 'wild-area', 'raid-day', 'pokémon-go-tour', 'go-fest') and link:
+                try:
+                    detail_resp = requests.get(link, headers=headers, timeout=10)
+                    detail_soup = BeautifulSoup(detail_resp.text, 'html.parser')
+                    for h3 in detail_soup.find_all(['h2', 'h3', 'h4']):
+                        heading_text = h3.get_text(" ", strip=True).lower()
+                        tier = None
+                        if '5-star' in heading_text or 'five-star' in heading_text:
+                            tier = '5-star'
+                        elif 'mega raid' in heading_text:
+                            tier = 'Mega'
+                        elif 'shadow raid' in heading_text and '5' in heading_text:
+                            tier = 'Shadow'
+                        if not tier:
+                            continue
+
+                        ul = h3.find_next_sibling('ul', class_='pkmn-list-flex')
+                        if not ul:
+                            continue
+                        for pkmn_li in ul.find_all('li', class_='pkmn-list-item'):
+                            name_div = pkmn_li.find(class_='pkmn-name')
+                            if not name_div:
+                                continue
+                            boss_name = name_div.get_text(" ", strip=True)
+                            key = (boss_name.lower(), tier, start_date, end_date)
+                            if boss_name and key not in seen_scheduled:
+                                seen_scheduled.add(key)
+                                final_data["scheduled_bosses"].append({
+                                    "name": boss_name,
+                                    "tier": tier,
+                                    "start": start_date,
+                                    "end": end_date,
+                                })
+                except Exception as ex:
+                    print(f"Skipping event detail {link}: {ex}")
+
+        print(f"Successfully loaded {len(final_data['events'])} events and {len(final_data['scheduled_bosses'])} scheduled bosses.")
     except Exception as e:
         print(f"Error scraping events: {e}")
-
     
     # --- SAVE ---
     os.makedirs('api', exist_ok=True)
