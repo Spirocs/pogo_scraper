@@ -1,49 +1,24 @@
 {
-    "last_updated": "2026-11-09T03:20:18.324913+00:00",
+    "last_updated": "2026-11-09T07:46:43.338062+00:00",
     "raids": [
         {
-            "name": "Duskull",
-            "tier": "1",
-            "is_shadow": false
-        },
-        {
-            "name": "Frillish",
-            "tier": "1",
-            "is_shadow": false
-        },
-        {
-            "name": "Frillish (Female)",
-            "tier": "1",
-            "is_shadow": false
-        },
-        {
-            "name": "Litwick",
-            "tier": "1",
-            "is_shadow": false
-        },
-        {
-            "name": "Cofagrigus",
+            "name": "Druddigon",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Trevenant",
+            "name": "Orthworm",
             "tier": "3",
             "is_shadow": false
         },
         {
-            "name": "Dhelmise",
-            "tier": "3",
-            "is_shadow": false
-        },
-        {
-            "name": "Giratina (Altered)",
+            "name": "Zacian (Crowned Sword)",
             "tier": "5",
             "is_shadow": false
         },
         {
-            "name": "Mega Sableye",
-            "tier": "Mega",
+            "name": "Zamazenta (Crowned Shield)",
+            "tier": "5",
             "is_shadow": false
         },
         {
@@ -629,6 +604,30 @@
     ],
     "scheduled_bosses": [
         {
+            "name": "Zacian (Crowned Sword)",
+            "tier": "5-star",
+            "start": "2026-11-06T01:00:00+00:00",
+            "end": "2026-11-08T09:00:00+00:00"
+        },
+        {
+            "name": "Zamazenta (Crowned Shield)",
+            "tier": "5-star",
+            "start": "2026-11-06T01:00:00+00:00",
+            "end": "2026-11-08T09:00:00+00:00"
+        },
+        {
+            "name": "Zacian (Crowned Sword)",
+            "tier": "5-star",
+            "start": "2026-11-06T16:00:00+00:00",
+            "end": "2026-11-09T00:00:00+00:00"
+        },
+        {
+            "name": "Zamazenta (Crowned Shield)",
+            "tier": "5-star",
+            "start": "2026-11-06T16:00:00+00:00",
+            "end": "2026-11-09T00:00:00+00:00"
+        },
+        {
             "name": "Mega Sableye",
             "tier": "Mega",
             "start": "2026-10-28T06:00:00",
@@ -644,7 +643,55 @@
             "name": "Shadow Tornadus (Incarnate Forme)",
             "tier": "Shadow",
             "start": "2026-11-04T06:00:00",
-            "end": "2026-11-08T22:00:00"
+            "end": "2026-12-01T22:00:00"
+        },
+        {
+            "name": "Zacian (Crowned Sword)",
+            "tier": "5-star",
+            "start": "2026-11-09T10:00:00",
+            "end": "2026-11-13T20:00:00"
+        },
+        {
+            "name": "Zamazenta (Crowned Shield)",
+            "tier": "5-star",
+            "start": "2026-11-09T10:00:00",
+            "end": "2026-11-13T20:00:00"
+        },
+        {
+            "name": "Registeel",
+            "tier": "5-star",
+            "start": "2026-11-09T10:00:00",
+            "end": "2026-11-13T20:00:00"
+        },
+        {
+            "name": "Regidrago",
+            "tier": "5-star",
+            "start": "2026-11-09T10:00:00",
+            "end": "2026-11-13T20:00:00"
+        },
+        {
+            "name": "Latias",
+            "tier": "5-star",
+            "start": "2026-11-09T10:00:00",
+            "end": "2026-11-13T20:00:00"
+        },
+        {
+            "name": "Latios",
+            "tier": "5-star",
+            "start": "2026-11-09T10:00:00",
+            "end": "2026-11-13T20:00:00"
+        },
+        {
+            "name": "Zekrom",
+            "tier": "5-star",
+            "start": "2026-11-14T10:00:00",
+            "end": "2026-11-15T18:00:00"
+        },
+        {
+            "name": "Kyurem (White)",
+            "tier": "5-star",
+            "start": "2026-11-14T10:00:00",
+            "end": "2026-11-15T18:00:00"
         },
         {
             "name": "Cresselia and Darkrai",
@@ -659,10 +706,34 @@
             "end": "2026-11-24T22:00:00"
         },
         {
-            "name": "Shadow Tornadus (Incarnate Forme)",
-            "tier": "Shadow",
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-12-01T22:00:00"
+            "name": "Clefable",
+            "tier": "Mega",
+            "start": "2026-11-28T14:00:00",
+            "end": "2026-11-28T17:00:00"
+        },
+        {
+            "name": "Mega Beedrill",
+            "tier": "Mega",
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-30T20:00:00"
+        },
+        {
+            "name": "Mega Houndoom",
+            "tier": "Mega",
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-30T20:00:00"
+        },
+        {
+            "name": "Mega Sableye",
+            "tier": "Mega",
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-30T20:00:00"
+        },
+        {
+            "name": "Mega Manectric",
+            "tier": "Mega",
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-30T20:00:00"
         },
         {
             "name": "Deoxys (Normal, Defense, Attack, and Speed Formes)",
@@ -675,36 +746,6 @@
             "tier": "Mega",
             "start": "2026-11-25T06:00:00",
             "end": "2026-12-01T22:00:00"
-        },
-        {
-            "name": "Cresselia and Darkrai",
-            "tier": "5-star",
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-11-16T06:00:00"
-        },
-        {
-            "name": "Mega Banette",
-            "tier": "Mega",
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-11-16T06:00:00"
-        },
-        {
-            "name": "Shadow Tornadus (Incarnate Forme)",
-            "tier": "Shadow",
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-11-16T06:00:00"
-        },
-        {
-            "name": "Deoxys (Normal, Defense, Attack, and Speed Formes)",
-            "tier": "5-star",
-            "start": "2026-11-25T06:00:00",
-            "end": "2026-11-25T06:00:00"
-        },
-        {
-            "name": "Mega Metagross",
-            "tier": "Mega",
-            "start": "2026-11-25T06:00:00",
-            "end": "2026-11-25T06:00:00"
         }
     ]
 }
