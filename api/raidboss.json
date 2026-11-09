@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-09T07:46:43.338062+00:00",
+    "last_updated": "2026-11-09T14:31:42.088007+00:00",
     "raids": [
         {
             "name": "Druddigon",
@@ -160,6 +160,10 @@
             "level": "tier_1"
         },
         {
+            "name_jp": "ニャスパー",
+            "level": "tier_1"
+        },
+        {
             "name_jp": "マーイーカ",
             "level": "tier_1"
         },
@@ -198,6 +202,10 @@
         {
             "name_jp": "ミブリム",
             "level": "tier_1"
+        },
+        {
+            "name_jp": "ニャスパー",
+            "level": "tier_2"
         },
         {
             "name_jp": "ワンリキー",
