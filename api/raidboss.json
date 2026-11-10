@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-10T13:52:13.151310+00:00",
+    "last_updated": "2026-11-10T22:37:00.942256+00:00",
     "raids": [
         {
             "name": "Druddigon",
@@ -290,46 +290,6 @@
     ],
     "events": [
         {
-            "title": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-            "type": "wild-area",
-            "start": "2026-11-06T01:00:00+00:00",
-            "end": "2026-11-08T09:00:00+00:00",
-            "is_local_time": false,
-            "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/"
-        },
-        {
-            "title": "Pokémon GO Wild Area 2026: Mexico City",
-            "type": "wild-area",
-            "start": "2026-11-06T16:00:00+00:00",
-            "end": "2026-11-09T00:00:00+00:00",
-            "is_local_time": false,
-            "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/"
-        },
-        {
-            "title": "Mega Sableye in Mega Raids",
-            "type": "raid-battles",
-            "start": "2026-10-28T06:00:00",
-            "end": "2026-11-08T22:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/"
-        },
-        {
-            "title": "Giratina (Altered Forme) in 5-star Raid Battles",
-            "type": "raid-battles",
-            "start": "2026-11-04T06:00:00",
-            "end": "2026-11-08T22:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/giratina-altered-forme-in-5-star-raid-battles-november-2026/"
-        },
-        {
-            "title": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
-            "type": "raid-battles",
-            "start": "2026-11-04T06:00:00",
-            "end": "2026-12-01T22:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026/"
-        },
-        {
             "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
             "type": "go-battle-league",
             "start": "2026-11-03T21:00:00+00:00",
@@ -538,6 +498,14 @@
             "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/"
         },
         {
+            "title": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
+            "type": "raid-battles",
+            "start": "2026-11-16T06:00:00",
+            "end": "2026-12-01T22:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/"
+        },
+        {
             "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) in 5-star Raid Battles",
             "type": "raid-battles",
             "start": "2026-11-25T06:00:00",
@@ -686,48 +654,6 @@
         {
             "name": "Zacian (Crowned Sword)",
             "tier": "5-star",
-            "start": "2026-11-06T01:00:00+00:00",
-            "end": "2026-11-08T09:00:00+00:00"
-        },
-        {
-            "name": "Zamazenta (Crowned Shield)",
-            "tier": "5-star",
-            "start": "2026-11-06T01:00:00+00:00",
-            "end": "2026-11-08T09:00:00+00:00"
-        },
-        {
-            "name": "Zacian (Crowned Sword)",
-            "tier": "5-star",
-            "start": "2026-11-06T16:00:00+00:00",
-            "end": "2026-11-09T00:00:00+00:00"
-        },
-        {
-            "name": "Zamazenta (Crowned Shield)",
-            "tier": "5-star",
-            "start": "2026-11-06T16:00:00+00:00",
-            "end": "2026-11-09T00:00:00+00:00"
-        },
-        {
-            "name": "Mega Sableye",
-            "tier": "Mega",
-            "start": "2026-10-28T06:00:00",
-            "end": "2026-11-08T22:00:00"
-        },
-        {
-            "name": "Giratina (Altered Forme)",
-            "tier": "5-star",
-            "start": "2026-11-04T06:00:00",
-            "end": "2026-11-08T22:00:00"
-        },
-        {
-            "name": "Shadow Tornadus (Incarnate Forme)",
-            "tier": "Shadow",
-            "start": "2026-11-04T06:00:00",
-            "end": "2026-12-01T22:00:00"
-        },
-        {
-            "name": "Zacian (Crowned Sword)",
-            "tier": "5-star",
             "start": "2026-11-09T10:00:00",
             "end": "2026-11-13T20:00:00"
         },
@@ -796,6 +722,12 @@
             "tier": "Mega",
             "start": "2026-11-24T10:00:00",
             "end": "2026-11-30T20:00:00"
+        },
+        {
+            "name": "Shadow Tornadus (Incarnate Forme)",
+            "tier": "Shadow",
+            "start": "2026-11-16T06:00:00",
+            "end": "2026-12-01T22:00:00"
         },
         {
             "name": "Deoxys (Normal, Defense, Attack, and Speed Formes)",
