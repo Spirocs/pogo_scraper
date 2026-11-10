@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-10T00:55:32.984912+00:00",
+    "last_updated": "2026-11-10T03:08:25.520969+00:00",
     "raids": [
         {
             "name": "Druddigon",
@@ -733,30 +733,6 @@
         },
         {
             "name": "Zamazenta (Crowned Shield)",
-            "tier": "5-star",
-            "start": "2026-11-09T10:00:00",
-            "end": "2026-11-13T20:00:00"
-        },
-        {
-            "name": "Registeel",
-            "tier": "5-star",
-            "start": "2026-11-09T10:00:00",
-            "end": "2026-11-13T20:00:00"
-        },
-        {
-            "name": "Regidrago",
-            "tier": "5-star",
-            "start": "2026-11-09T10:00:00",
-            "end": "2026-11-13T20:00:00"
-        },
-        {
-            "name": "Latias",
-            "tier": "5-star",
-            "start": "2026-11-09T10:00:00",
-            "end": "2026-11-13T20:00:00"
-        },
-        {
-            "name": "Latios",
             "tier": "5-star",
             "start": "2026-11-09T10:00:00",
             "end": "2026-11-13T20:00:00"
