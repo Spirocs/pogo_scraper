@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-09T14:31:42.088007+00:00",
+    "last_updated": "2026-11-10T00:55:32.984912+00:00",
     "raids": [
         {
             "name": "Druddigon",
@@ -22,42 +22,42 @@
             "is_shadow": false
         },
         {
-            "name": "Shadow Gastly",
+            "name": "Shadow Larvitar",
             "tier": "1",
             "is_shadow": true
         },
         {
-            "name": "Shadow Totodile",
+            "name": "Shadow Mudkip",
             "tier": "1",
             "is_shadow": true
         },
         {
-            "name": "Shadow Shieldon",
+            "name": "Shadow Makuhita",
             "tier": "1",
             "is_shadow": true
         },
         {
-            "name": "Shadow Gible",
+            "name": "Shadow Cranidos",
             "tier": "1",
             "is_shadow": true
         },
         {
-            "name": "Shadow Primeape",
+            "name": "Shadow Poliwhirl",
             "tier": "3",
             "is_shadow": true
         },
         {
-            "name": "Shadow Kirlia",
+            "name": "Shadow Piloswine",
             "tier": "3",
             "is_shadow": true
         },
         {
-            "name": "Shadow Drapion",
+            "name": "Shadow Prinplup",
             "tier": "3",
             "is_shadow": true
         },
         {
-            "name": "Shadow Landorus (Incarnate)",
+            "name": "Shadow Tornadus (Incarnate)",
             "tier": "5",
             "is_shadow": true
         }
@@ -354,6 +354,14 @@
             "link": "https://leekduck.com/events/into-the-wild-2026/"
         },
         {
+            "title": "Zacian (Crowned Sword) and Zamazenta (Crowned Shield) in 5-star Raid Battles",
+            "type": "raid-battles",
+            "start": "2026-11-09T10:00:00",
+            "end": "2026-11-13T20:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026/"
+        },
+        {
             "title": "Pokémon GO Wild Area 2026: Global",
             "type": "wild-area",
             "start": "2026-11-14T10:00:00",
@@ -546,6 +554,22 @@
             "link": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/"
         },
         {
+            "title": "Max Battle Day",
+            "type": "max-battles",
+            "start": "2026-12-05T14:00:00",
+            "end": "2027-01-23T17:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/max-battle-day-december-2026/"
+        },
+        {
+            "title": "December Community Day",
+            "type": "community-day",
+            "start": "2026-12-12T14:00:00",
+            "end": "2026-12-13T17:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/december-communityday2026/"
+        },
+        {
             "title": "Minior Showers: Geminids 2026",
             "type": "event",
             "start": "2026-12-11T17:00:00",
@@ -554,12 +578,60 @@
             "link": "https://leekduck.com/events/minior-showers-geminids-2026/"
         },
         {
+            "title": "Raid Day",
+            "type": "raid-day",
+            "start": "2026-12-19T14:00:00",
+            "end": "2027-02-13T17:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/raid-day-december-2026/"
+        },
+        {
+            "title": "Hatch Day",
+            "type": "event",
+            "start": "2026-12-26T11:00:00",
+            "end": "2026-12-26T17:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/hatch-day-december-2026/"
+        },
+        {
+            "title": "January Community Day Classic",
+            "type": "community-day",
+            "start": "2027-01-02T14:00:00",
+            "end": "2027-01-02T17:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/january-communitydayclassic2027/"
+        },
+        {
+            "title": "Super Mega Raid Day",
+            "type": "raid-day",
+            "start": "2027-01-09T14:00:00",
+            "end": "2027-01-30T17:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/super-mega-raid-day-january-2027/"
+        },
+        {
             "title": "adidas × Pokémon Timed Research",
             "type": "research",
             "start": "2026-09-25T10:00:00",
             "end": "2027-01-15T20:00:00",
             "is_local_time": true,
             "link": "https://leekduck.com/events/pokemon-x-adidas-2026/"
+        },
+        {
+            "title": "January Community Day",
+            "type": "community-day",
+            "start": "2027-01-16T14:00:00",
+            "end": "2027-01-16T17:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/january-communityday2027/"
+        },
+        {
+            "title": "February Community Day",
+            "type": "community-day",
+            "start": "2027-02-06T14:00:00",
+            "end": "2027-02-06T17:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/february-communityday2027/"
         },
         {
             "title": "Pokémon GO Tour: Alola - Kaohsiung 2027",
@@ -685,6 +757,12 @@
         },
         {
             "name": "Latios",
+            "tier": "5-star",
+            "start": "2026-11-09T10:00:00",
+            "end": "2026-11-13T20:00:00"
+        },
+        {
+            "name": "Zacian (Crowned Sword) and Zamazenta (Crowned Shield)",
             "tier": "5-star",
             "start": "2026-11-09T10:00:00",
             "end": "2026-11-13T20:00:00"
