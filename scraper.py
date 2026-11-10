@@ -150,15 +150,20 @@ def scrape_data():
                     detail_soup = BeautifulSoup(detail_resp.text, 'html.parser')
                     for h3 in detail_soup.find_all(['h2', 'h3', 'h4']):
                         heading_text = h3.get_text(" ", strip=True).lower()
+                        
+                        if 'max' in heading_text or 'raid hour' in heading_text or ':' in heading_text:
+                            continue
+
                         tier = None
-                        if '5-star' in heading_text or 'five-star' in heading_text:
+                        if '5-star raid' in heading_text or 'five-star raid' in heading_text:
                             tier = '5-star'
                         elif 'mega raid' in heading_text:
                             tier = 'Mega'
-                        elif 'shadow raid' in heading_text and '5' in heading_text:
+                        elif 'shadow raid' in heading_text and ('5-star' in heading_text or 'five-star' in heading_text):
                             tier = 'Shadow'
                         if not tier:
                             continue
+
 
                         ul = h3.find_next_sibling('ul', class_='pkmn-list-flex')
                         if not ul:
