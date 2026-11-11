@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-10T22:37:00.942256+00:00",
+    "last_updated": "2026-11-11T03:28:30.124720+00:00",
     "raids": [
         {
             "name": "Druddigon",
@@ -286,10 +286,6 @@
         {
             "name_jp": "タイレーツ",
             "level": "tier_3"
-        },
-        {
-            "name_jp": "レジスチル",
-            "level": "tier_5"
         }
     ],
     "events": [
