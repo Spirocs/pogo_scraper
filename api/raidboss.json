@@ -286,6 +286,10 @@
         {
             "name_jp": "タイレーツ",
             "level": "tier_3"
+        },
+        {
+            "name_jp": "レジスチル“,
+            "level": "tier_5"
         }
     ],
     "events": [
