@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-13T05:15:55.088849+00:00",
+    "last_updated": "2026-11-13T13:31:38.653750+00:00",
     "raids": [
         {
             "name": "Druddigon",
@@ -192,6 +192,142 @@
             "start": "2026-11-09T05:00:00",
             "end": "2026-11-13T21:00:00",
             "source": "minpoke"
+        },
+        {
+            "name_jp": "ゼクロム",
+            "tier": "5",
+            "is_shadow": false,
+            "start": "2026-11-14T05:00:00",
+            "end": "2026-11-14T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "ホワイトキュレム",
+            "tier": "5",
+            "is_shadow": false,
+            "start": "2026-11-14T05:00:00",
+            "end": "2026-11-14T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "カイリキー(ジャケット)",
+            "tier": "3",
+            "is_shadow": false,
+            "start": "2026-11-14T05:00:00",
+            "end": "2026-11-14T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "レシラム",
+            "tier": "5",
+            "is_shadow": false,
+            "start": "2026-11-15T05:00:00",
+            "end": "2026-11-15T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "ブラックキュレム",
+            "tier": "5",
+            "is_shadow": false,
+            "start": "2026-11-15T05:00:00",
+            "end": "2026-11-15T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "カイリキー(ジャケット)",
+            "tier": "3",
+            "is_shadow": false,
+            "start": "2026-11-15T05:00:00",
+            "end": "2026-11-15T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "クレセリア",
+            "tier": "5",
+            "is_shadow": false,
+            "start": "2026-11-16T05:00:00",
+            "end": "2026-11-24T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "ダークライ",
+            "tier": "5",
+            "is_shadow": false,
+            "start": "2026-11-16T05:00:00",
+            "end": "2026-11-24T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "トルネロス(けしん)",
+            "tier": "5",
+            "is_shadow": true,
+            "start": "2026-11-16T05:00:00",
+            "end": "2026-11-24T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "メガジュペッタ",
+            "tier": "Mega",
+            "is_shadow": false,
+            "start": "2026-11-16T05:00:00",
+            "end": "2026-11-24T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "イノムー",
+            "tier": "3",
+            "is_shadow": true,
+            "start": "2026-11-16T05:00:00",
+            "end": "2026-11-24T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "ポッタイシ",
+            "tier": "3",
+            "is_shadow": true,
+            "start": "2026-11-16T05:00:00",
+            "end": "2026-11-24T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "ニョロゾ",
+            "tier": "3",
+            "is_shadow": true,
+            "start": "2026-11-16T05:00:00",
+            "end": "2026-11-24T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "ヨーギラス",
+            "tier": "1",
+            "is_shadow": true,
+            "start": "2026-11-16T05:00:00",
+            "end": "2026-11-24T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "ミズゴロウ",
+            "tier": "1",
+            "is_shadow": true,
+            "start": "2026-11-16T05:00:00",
+            "end": "2026-11-24T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "マクノシタ",
+            "tier": "1",
+            "is_shadow": true,
+            "start": "2026-11-16T05:00:00",
+            "end": "2026-11-24T21:00:00",
+            "source": "minpoke"
+        },
+        {
+            "name_jp": "ズガイドス",
+            "tier": "1",
+            "is_shadow": true,
+            "start": "2026-11-16T05:00:00",
+            "end": "2026-11-24T21:00:00",
+            "source": "minpoke"
         }
     ],
     "max_battles": [
@@ -202,7 +338,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ゼニガメ",
@@ -211,7 +347,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ピカチュウ",
@@ -220,7 +356,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "キャタピー",
@@ -229,7 +365,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ガーディ",
@@ -238,7 +374,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ケーシィ",
@@ -247,7 +383,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ゴース",
@@ -256,7 +392,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "クラブ",
@@ -265,7 +401,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "サイホーン",
@@ -274,7 +410,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "コイキング",
@@ -283,7 +419,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "オムナイト",
@@ -292,7 +428,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "カブト",
@@ -301,7 +437,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "フシギダネ",
@@ -310,7 +446,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ホーホー",
@@ -319,7 +455,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ラルトス",
@@ -328,7 +464,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ナックラー",
@@ -337,7 +473,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "タマザラシ",
@@ -346,7 +482,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ミツハニー",
@@ -355,7 +491,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "マメパト",
@@ -364,7 +500,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ダンゴロ",
@@ -373,7 +509,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "コロモリ",
@@ -382,7 +518,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "モグリュー",
@@ -391,7 +527,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "モンメン",
@@ -400,7 +536,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ヤブクロン",
@@ -409,7 +545,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ニャスパー",
@@ -418,7 +554,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "マーイーカ",
@@ -427,7 +563,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "アマカジ",
@@ -436,7 +572,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ホシガリス",
@@ -445,7 +581,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ウールー",
@@ -454,7 +590,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "サルノリ",
@@ -463,7 +599,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ヒバニー",
@@ -472,7 +608,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "メッソン",
@@ -481,7 +617,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ココガラ",
@@ -490,7 +626,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ヤクデ",
@@ -499,7 +635,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ミブリム",
@@ -508,7 +644,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ニャスパー",
@@ -517,7 +653,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ワンリキー",
@@ -526,7 +662,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "イーブイ",
@@ -535,7 +671,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ツボツボ",
@@ -544,7 +680,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ニューラ",
@@ -553,7 +689,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ホエルコ",
@@ -562,7 +698,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ヒンバス",
@@ -571,7 +707,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ダルマッカ",
@@ -580,7 +716,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "サワムラー",
@@ -589,7 +725,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "エビワラー",
@@ -598,7 +734,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "エレブー",
@@ -607,7 +743,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ブーバー",
@@ -616,7 +752,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ラッキー",
@@ -625,7 +761,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "カポエラー",
@@ -634,7 +770,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ヤミラミ",
@@ -643,7 +779,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ダンバル",
@@ -652,7 +788,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "フリージオ",
@@ -661,7 +797,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "モノズ",
@@ -670,7 +806,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ナゲツケサル",
@@ -679,7 +815,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ジジーロン",
@@ -688,7 +824,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "タイレーツ",
@@ -697,7 +833,7 @@
             "is_gmax": false,
             "start": "2026-11-23T06:00:00",
             "end": "2026-11-29T21:00:00",
-            "is_active_tab": false
+            "is_active_tab": true
         },
         {
             "name_jp": "ヒトカゲ",
@@ -1199,36 +1335,9 @@
             "raw_name_jp": "ラルトス",
             "level": "tier_1",
             "is_gmax": false,
-            "start": "2026-11-12T06:00:00",
-            "end": "2026-11-12T21:00:00",
-            "is_active_tab": false
-        },
-        {
-            "name_jp": "ワンリキー",
-            "raw_name_jp": "ワンリキー",
-            "level": "tier_3",
-            "is_gmax": false,
-            "start": "2026-11-12T06:00:00",
-            "end": "2026-11-12T21:00:00",
-            "is_active_tab": false
-        },
-        {
-            "name_jp": "レジドラゴ",
-            "raw_name_jp": "レジドラゴ",
-            "level": "tier_5",
-            "is_gmax": false,
-            "start": "2026-11-12T06:00:00",
-            "end": "2026-11-12T21:00:00",
-            "is_active_tab": false
-        },
-        {
-            "name_jp": "ラルトス",
-            "raw_name_jp": "ラルトス",
-            "level": "tier_1",
-            "is_gmax": false,
             "start": "2026-11-13T06:00:00",
             "end": "2026-11-13T21:00:00",
-            "is_active_tab": true
+            "is_active_tab": false
         },
         {
             "name_jp": "ワンリキー",
@@ -1237,7 +1346,7 @@
             "is_gmax": false,
             "start": "2026-11-13T06:00:00",
             "end": "2026-11-13T21:00:00",
-            "is_active_tab": true
+            "is_active_tab": false
         },
         {
             "name_jp": "ラティアス",
@@ -1246,7 +1355,7 @@
             "is_gmax": false,
             "start": "2026-11-13T06:00:00",
             "end": "2026-11-13T21:00:00",
-            "is_active_tab": true
+            "is_active_tab": false
         },
         {
             "name_jp": "ラティオス",
@@ -1255,7 +1364,7 @@
             "is_gmax": false,
             "start": "2026-11-13T06:00:00",
             "end": "2026-11-13T21:00:00",
-            "is_active_tab": true
+            "is_active_tab": false
         },
         {
             "name_jp": "ディアルガ",
@@ -1273,6 +1382,24 @@
             "is_gmax": true,
             "start": "2026-11-14T06:00:00",
             "end": "2026-11-14T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "パルキア",
+            "raw_name_jp": "パルキア",
+            "level": "tier_5",
+            "is_gmax": false,
+            "start": "2026-11-15T06:00:00",
+            "end": "2026-11-15T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ジュラルドン",
+            "raw_name_jp": "キョダイマックスジュラルドン",
+            "level": "tier_6",
+            "is_gmax": true,
+            "start": "2026-11-15T06:00:00",
+            "end": "2026-11-15T21:00:00",
             "is_active_tab": false
         }
     ],
