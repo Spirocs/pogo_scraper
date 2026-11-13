@@ -152,9 +152,23 @@ def scrape_data():
                             "source": "minpoke"
                         })
 
-        # Also scrape Minpoke's monthly forecast table (伝説・メガレイドの出現予定)
+        # Also scrape Minpoke's monthly forecast table (伝説・メガレイドの出現予定) with Event Override detection
         infograph = mp_raid_soup.find('div', class_='wiki_infograph')
         if infograph:
+            override_start_iso = None
+            override_end_iso = None
+            override_note = infograph.find('table', class_='wiki_modew')
+            if override_note:
+                note_text = override_note.get_text(" ", strip=True)
+                ov_match = re.search(
+                    r'(\d{1,2})月(\d{1,2})日\([^)]+\)\s*(\d{1,2}):(\d{2})から\s*(\d{1,2})月(\d{1,2})日',
+                    note_text
+                )
+                if ov_match:
+                    om1, od1, oh1, omn1, om2, od2 = [int(x) for x in ov_match.groups()]
+                    override_start_iso = f"{now_utc.year:04d}-{om1:02d}-{od1:02d}T{oh1:02d}:{omn1:02d}:00"
+                    override_end_iso = f"{now_utc.year:04d}-{om2:02d}-{od2:02d}T21:00:00"
+
             for h3 in infograph.find_all('h3'):
                 h3_text = h3.get_text(strip=True)
                 sched_tier = "5-star"
@@ -172,20 +186,20 @@ def scrape_data():
                 cells = table.find_all('td')
                 parsed_cells = []
                 for td in cells:
-                    date_spans = td.find_all('span', class_=re.compile(r'wiki_pgodate(tl|br)'))
-                    if not date_spans:
+                    start_span = td.find('span', class_='wiki_pgodatetl')
+                    end_span = td.find('span', class_='wiki_pgodatebr')
+                    if not start_span:
                         continue
-                    first_date_text = date_spans[0].get_text(strip=True)
-                    m_match = re.search(r'(\d{1,2})/(\d{1,2})', first_date_text)
+
+                    m_match = re.search(r'(\d{1,2})/(\d{1,2})', start_span.get_text(strip=True))
                     if not m_match:
                         continue
                     s_m, s_d = int(m_match.group(1)), int(m_match.group(2))
                     s_iso = f"{now_utc.year:04d}-{s_m:02d}-{s_d:02d}T05:00:00"
 
                     e_iso = None
-                    if len(date_spans) > 1:
-                        last_date_text = date_spans[-1].get_text(strip=True)
-                        e_match = re.search(r'(\d{1,2})/(\d{1,2})', last_date_text)
+                    if end_span:
+                        e_match = re.search(r'(\d{1,2})/(\d{1,2})', end_span.get_text(strip=True))
                         if e_match:
                             e_m, e_d = int(e_match.group(1)), int(e_match.group(2))
                             e_year = now_utc.year + 1 if e_m < s_m else now_utc.year
@@ -201,9 +215,16 @@ def scrape_data():
                 for i, cell in enumerate(parsed_cells):
                     end_val = cell["end"]
                     if not end_val and i + 1 < len(parsed_cells):
-                        end_val = parsed_cells[i + 1]["start"]
+                        next_start = parsed_cells[i + 1]["start"]
+                        # If an event override (like Wild Week 11/9-11/15) starts between this cell and the next cell,
+                        # cap this rotation's end date at the start of the override!
+                        if override_start_iso and cell["start"] < override_start_iso < next_start:
+                            end_val = override_start_iso
+                        else:
+                            end_val = next_start
                     if not end_val:
                         continue
+
                     for b_jp in cell["bosses_jp"]:
                         key = (b_jp, sched_tier, cell["start"], end_val)
                         if key not in seen_scheduled:
