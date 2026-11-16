@@ -1,44 +1,84 @@
 {
-    "last_updated": "2026-11-16T03:29:19.054876+00:00",
+    "last_updated": "2026-11-16T14:08:08.128054+00:00",
     "raids": [
         {
-            "name": "Modern Jacket Machamp",
+            "name": "Alolan Meowth",
+            "tier": "1",
+            "is_shadow": false,
+            "start": "2026-11-16T06:00:00",
+            "end": "2026-11-24T10:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Misdreavus",
+            "tier": "1",
+            "is_shadow": false,
+            "start": "2026-11-16T06:00:00",
+            "end": "2026-11-24T10:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Galarian Yamask",
+            "tier": "1",
+            "is_shadow": false,
+            "start": "2026-11-16T06:00:00",
+            "end": "2026-11-24T10:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Sandygast",
+            "tier": "1",
+            "is_shadow": false,
+            "start": "2026-11-16T06:00:00",
+            "end": "2026-11-24T10:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Alolan Marowak",
             "tier": "3",
             "is_shadow": false,
-            "start": "2026-11-14T10:00:00",
-            "end": "2026-11-15T18:00:00",
+            "start": "2026-11-16T06:00:00",
+            "end": "2026-11-24T10:00:00",
             "source": "leekduck"
         },
         {
-            "name": "Zekrom",
-            "tier": "5",
+            "name": "Liepard",
+            "tier": "3",
             "is_shadow": false,
-            "start": "2026-11-14T10:00:00",
-            "end": "2026-11-15T18:00:00",
+            "start": "2026-11-16T06:00:00",
+            "end": "2026-11-24T10:00:00",
             "source": "leekduck"
         },
         {
-            "name": "Kyurem (White)",
-            "tier": "5",
+            "name": "Golurk",
+            "tier": "3",
             "is_shadow": false,
-            "start": "2026-11-14T10:00:00",
-            "end": "2026-11-15T18:00:00",
+            "start": "2026-11-16T06:00:00",
+            "end": "2026-11-24T10:00:00",
             "source": "leekduck"
         },
         {
-            "name": "Reshiram",
+            "name": "Cresselia",
             "tier": "5",
             "is_shadow": false,
-            "start": "2026-11-14T10:00:00",
-            "end": "2026-11-15T18:00:00",
+            "start": "2026-11-16T06:00:00",
+            "end": "2026-11-24T10:00:00",
             "source": "leekduck"
         },
         {
-            "name": "Kyurem (Black)",
+            "name": "Darkrai",
             "tier": "5",
             "is_shadow": false,
-            "start": "2026-11-14T10:00:00",
-            "end": "2026-11-15T18:00:00",
+            "start": "2026-11-16T06:00:00",
+            "end": "2026-11-24T10:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Mega Banette",
+            "tier": "Mega",
+            "is_shadow": false,
+            "start": "2026-11-16T06:00:00",
+            "end": "2026-11-24T10:00:00",
             "source": "leekduck"
         },
         {
@@ -104,30 +144,6 @@
             "start": "2026-11-16T06:00:00",
             "end": "2026-12-01T20:00:00",
             "source": "leekduck"
-        },
-        {
-            "name_jp": "レシラム",
-            "tier": "5",
-            "is_shadow": false,
-            "start": "2026-11-15T05:00:00",
-            "end": "2026-11-15T21:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "ブラックキュレム",
-            "tier": "5",
-            "is_shadow": false,
-            "start": "2026-11-15T05:00:00",
-            "end": "2026-11-15T21:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "カイリキー(ジャケット)",
-            "tier": "3",
-            "is_shadow": false,
-            "start": "2026-11-15T05:00:00",
-            "end": "2026-11-15T21:00:00",
-            "source": "minpoke"
         },
         {
             "name_jp": "クレセリア",
@@ -1275,24 +1291,6 @@
             "is_active_tab": false
         },
         {
-            "name_jp": "パルキア",
-            "raw_name_jp": "パルキア",
-            "level": "tier_5",
-            "is_gmax": false,
-            "start": "2026-11-15T06:00:00",
-            "end": "2026-11-15T21:00:00",
-            "is_active_tab": false
-        },
-        {
-            "name_jp": "ジュラルドン",
-            "raw_name_jp": "キョダイマックスジュラルドン",
-            "level": "tier_6",
-            "is_gmax": true,
-            "start": "2026-11-15T06:00:00",
-            "end": "2026-11-15T21:00:00",
-            "is_active_tab": false
-        },
-        {
             "name_jp": "ムゲンダイナ(ムゲン)",
             "raw_name_jp": "ムゲンダイナ(ムゲンダイマックス)",
             "level": "tier_6",
@@ -1833,7 +1831,7 @@
             "link": "https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-timed-research/"
         },
         {
-            "title": "Max Monday: Pokémon to be announced",
+            "title": "[Canceled] Max Monday",
             "type": "max-mondays",
             "start": "2026-11-16T06:00:00",
             "end": "2026-11-16T21:00:00",
