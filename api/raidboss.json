@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-20T05:31:49.181171+00:00",
+    "last_updated": "2026-11-20T14:29:51.270261+00:00",
     "raids": [
         {
             "name": "Alolan Meowth",
@@ -2119,14 +2119,6 @@
     ],
     "events": [
         {
-            "title": "Cresselia and Darkrai Raid Hour",
-            "type": "raid-hour",
-            "start": "2026-11-18T18:00:00",
-            "end": "2026-11-18T19:00:00",
-            "is_local_time": true,
-            "link": "https://leekduck.com/events/raidhour20261118/"
-        },
-        {
             "title": "Grookey, Scorbunny, and Sobble Spotlight Hour",
             "type": "pokémon-spotlight-hour",
             "start": "2026-11-19T18:00:00",
@@ -2157,6 +2149,14 @@
             "end": "2026-11-21T17:00:00",
             "is_local_time": true,
             "link": "https://leekduck.com/events/november-communityday2026/"
+        },
+        {
+            "title": "Twitch Drops for 2027 Pokémon Latin America International Championships",
+            "type": "twitch-drops",
+            "start": "2026-11-20T12:00:00+00:00",
+            "end": "2026-11-22T23:00:00+00:00",
+            "is_local_time": false,
+            "link": "https://leekduck.com/events/pokemon-latin-america-international-championships-2027-timed-research-twitch-drops/"
         },
         {
             "title": "Dynamax Trails",
