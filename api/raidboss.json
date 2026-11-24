@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-24T03:32:39.198036+00:00",
+    "last_updated": "2026-11-24T16:37:14.381184+00:00",
     "raids": [
         {
             "name": "Alolan Meowth",
@@ -1629,14 +1629,6 @@
             "link": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/"
         },
         {
-            "title": "Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
-            "type": "go-battle-league",
-            "start": "2026-11-18T21:00:00+00:00",
-            "end": "2026-11-25T21:00:00+00:00",
-            "is_local_time": false,
-            "link": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/"
-        },
-        {
             "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
             "type": "raid-hour",
             "start": "2026-11-25T18:00:00",
@@ -1693,14 +1685,6 @@
             "link": "https://leekduck.com/events/go-pass-november-2026/"
         },
         {
-            "title": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
-            "type": "go-battle-league",
-            "start": "2026-11-24T21:00:00+00:00",
-            "end": "2026-12-01T21:00:00+00:00",
-            "is_local_time": false,
-            "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/"
-        },
-        {
             "title": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
             "type": "raid-battles",
             "start": "2026-11-16T06:00:00",
@@ -1733,12 +1717,28 @@
             "link": "https://leekduck.com/events/max-battle-day-december-2026/"
         },
         {
+            "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+            "type": "go-battle-league",
+            "start": "2026-12-01T21:00:00+00:00",
+            "end": "2027-02-02T21:00:00+00:00",
+            "is_local_time": false,
+            "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1/"
+        },
+        {
             "title": "December Community Day 2026",
             "type": "community-day",
             "start": "2026-12-12T14:00:00",
             "end": "2026-12-13T17:00:00",
             "is_local_time": true,
             "link": "https://leekduck.com/events/december-communityday2026/"
+        },
+        {
+            "title": "Great League: Mega Edition and Mountain Cup: Great League Edition | Daydream Destinations",
+            "type": "go-battle-league",
+            "start": "2026-12-08T21:00:00+00:00",
+            "end": "2026-12-15T21:00:00+00:00",
+            "is_local_time": false,
+            "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-league-edition/"
         },
         {
             "title": "Minior Showers: Geminids 2026",
@@ -1757,12 +1757,28 @@
             "link": "https://leekduck.com/events/raid-day-december-2026/"
         },
         {
+            "title": "Ultra League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+            "type": "go-battle-league",
+            "start": "2026-12-15T21:00:00+00:00",
+            "end": "2026-12-22T21:00:00+00:00",
+            "is_local_time": false,
+            "link": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition/"
+        },
+        {
             "title": "Hatch Day",
             "type": "event",
             "start": "2026-12-26T11:00:00",
             "end": "2026-12-26T17:00:00",
             "is_local_time": true,
             "link": "https://leekduck.com/events/hatch-day-december-2026/"
+        },
+        {
+            "title": "Master League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+            "type": "go-battle-league",
+            "start": "2026-12-22T21:00:00+00:00",
+            "end": "2026-12-29T21:00:00+00:00",
+            "is_local_time": false,
+            "link": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-league-edition/"
         },
         {
             "title": "Pokémon GO and Duolingo Timed Research",
@@ -1789,6 +1805,14 @@
             "link": "https://leekduck.com/events/super-mega-raid-day-january-2027/"
         },
         {
+            "title": "Great League: Mega Edition and Fighting Cup: Great League Edition | Daydream Destinations",
+            "type": "go-battle-league",
+            "start": "2027-01-05T21:00:00+00:00",
+            "end": "2027-01-12T21:00:00+00:00",
+            "is_local_time": false,
+            "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-league-edition/"
+        },
+        {
             "title": "adidas × Pokémon Timed Research",
             "type": "research",
             "start": "2026-09-25T10:00:00",
@@ -1805,12 +1829,44 @@
             "link": "https://leekduck.com/events/january-communityday2027/"
         },
         {
+            "title": "Ultra League: Mega Edition and Jungle Cup: Great League Edition | Daydream Destinations",
+            "type": "go-battle-league",
+            "start": "2027-01-12T21:00:00+00:00",
+            "end": "2027-01-19T21:00:00+00:00",
+            "is_local_time": false,
+            "link": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-league-edition/"
+        },
+        {
+            "title": "Master League: Mega Edition and Master League | Daydream Destinations",
+            "type": "go-battle-league",
+            "start": "2027-01-19T21:00:00+00:00",
+            "end": "2027-01-26T21:00:00+00:00",
+            "is_local_time": false,
+            "link": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_master-league/"
+        },
+        {
             "title": "February Community Day",
             "type": "community-day",
             "start": "2027-02-06T14:00:00",
             "end": "2027-02-06T17:00:00",
             "is_local_time": true,
             "link": "https://leekduck.com/events/february-communityday2027/"
+        },
+        {
+            "title": "Great League: Mega Edition and Master League | Daydream Destinations",
+            "type": "go-battle-league",
+            "start": "2027-02-02T21:00:00+00:00",
+            "end": "2027-02-09T21:00:00+00:00",
+            "is_local_time": false,
+            "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_master-league/"
+        },
+        {
+            "title": "Ultra League: Mega Edition, Love Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+            "type": "go-battle-league",
+            "start": "2027-02-09T21:00:00+00:00",
+            "end": "2027-02-16T21:00:00+00:00",
+            "is_local_time": false,
+            "link": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-league-edition_2027-go-euic-cup/"
         },
         {
             "title": "Pokémon GO Tour: Alola - Kaohsiung 2027",
@@ -1829,12 +1885,36 @@
             "link": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/"
         },
         {
+            "title": "Master League: Mega Edition, Mega Catch Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+            "type": "go-battle-league",
+            "start": "2027-02-16T21:00:00+00:00",
+            "end": "2027-02-23T21:00:00+00:00",
+            "is_local_time": false,
+            "link": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup/"
+        },
+        {
             "title": "Pokémon GO Tour: Alola - Global 2027",
             "type": "pokémon-go-tour",
             "start": "2027-02-27T00:00:00",
             "end": "2027-02-28T23:59:59",
             "is_local_time": true,
             "link": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/"
+        },
+        {
+            "title": "Daydream Destinations",
+            "type": "season",
+            "start": "2026-12-01T10:00:00",
+            "end": "2027-03-01T10:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/season-25-daydream-destinations/"
+        },
+        {
+            "title": "Great League: Mega Edition, Ultra League: Mega Edition, Master League: Mega Edition, and Mega Catch Cup: Great League Edition | Daydream Destinations",
+            "type": "go-battle-league",
+            "start": "2027-02-23T21:00:00+00:00",
+            "end": "2027-03-02T21:00:00+00:00",
+            "is_local_time": false,
+            "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-cup-great-league-edition/"
         },
         {
             "title": "Minior Showers: Eta Aquariids 2027",
