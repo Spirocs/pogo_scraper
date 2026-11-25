@@ -1,84 +1,84 @@
 {
-    "last_updated": "2026-11-24T16:37:14.381184+00:00",
+    "last_updated": "2026-11-25T01:41:43.086643+00:00",
     "raids": [
         {
-            "name": "Alolan Meowth",
+            "name": "Sun Crown Pikachu",
             "tier": "1",
             "is_shadow": false,
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-11-24T10:00:00",
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-25T06:00:00",
             "source": "leekduck"
         },
         {
-            "name": "Misdreavus",
+            "name": "Moon Crown Pikachu",
             "tier": "1",
             "is_shadow": false,
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-11-24T10:00:00",
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-25T06:00:00",
             "source": "leekduck"
         },
         {
-            "name": "Galarian Yamask",
-            "tier": "1",
-            "is_shadow": false,
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "leekduck"
-        },
-        {
-            "name": "Sandygast",
-            "tier": "1",
-            "is_shadow": false,
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "leekduck"
-        },
-        {
-            "name": "Alolan Marowak",
+            "name": "Espeon wearing a sun scarf",
             "tier": "3",
             "is_shadow": false,
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-11-24T10:00:00",
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-25T06:00:00",
             "source": "leekduck"
         },
         {
-            "name": "Liepard",
+            "name": "Umbreon wearing a moon scarf",
             "tier": "3",
             "is_shadow": false,
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "leekduck"
-        },
-        {
-            "name": "Golurk",
-            "tier": "3",
-            "is_shadow": false,
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-11-24T10:00:00",
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-25T06:00:00",
             "source": "leekduck"
         },
         {
             "name": "Cresselia",
             "tier": "5",
             "is_shadow": false,
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-11-24T10:00:00",
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-25T06:00:00",
             "source": "leekduck"
         },
         {
             "name": "Darkrai",
             "tier": "5",
             "is_shadow": false,
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-11-24T10:00:00",
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-25T06:00:00",
             "source": "leekduck"
         },
         {
-            "name": "Mega Banette",
+            "name": "Mega Beedrill",
             "tier": "Mega",
             "is_shadow": false,
-            "start": "2026-11-16T06:00:00",
-            "end": "2026-11-24T10:00:00",
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-25T06:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Mega Houndoom",
+            "tier": "Mega",
+            "is_shadow": false,
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-25T06:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Mega Sableye",
+            "tier": "Mega",
+            "is_shadow": false,
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-25T06:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Mega Manectric",
+            "tier": "Mega",
+            "is_shadow": false,
+            "start": "2026-11-24T10:00:00",
+            "end": "2026-11-25T06:00:00",
             "source": "leekduck"
         },
         {
@@ -144,150 +144,6 @@
             "start": "2026-11-16T06:00:00",
             "end": "2026-12-01T20:00:00",
             "source": "leekduck"
-        },
-        {
-            "name_jp": "クレセリア",
-            "tier": "5",
-            "is_shadow": false,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "ダークライ",
-            "tier": "5",
-            "is_shadow": false,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "トルネロス(けしん)",
-            "tier": "5",
-            "is_shadow": true,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "メガジュペッタ",
-            "tier": "Mega",
-            "is_shadow": false,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "ガラガラ(アローラ)",
-            "tier": "3",
-            "is_shadow": false,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "レパルダス",
-            "tier": "3",
-            "is_shadow": false,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "ゴルーグ",
-            "tier": "3",
-            "is_shadow": false,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "イノムー",
-            "tier": "3",
-            "is_shadow": true,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "ポッタイシ",
-            "tier": "3",
-            "is_shadow": true,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "ニョロゾ",
-            "tier": "3",
-            "is_shadow": true,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "ニャース(アローラ)",
-            "tier": "1",
-            "is_shadow": false,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "ムウマ",
-            "tier": "1",
-            "is_shadow": false,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "デスマス(ガラル)",
-            "tier": "1",
-            "is_shadow": false,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "スナバァ",
-            "tier": "1",
-            "is_shadow": false,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "ヨーギラス",
-            "tier": "1",
-            "is_shadow": true,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "ミズゴロウ",
-            "tier": "1",
-            "is_shadow": true,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "マクノシタ",
-            "tier": "1",
-            "is_shadow": true,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
-        },
-        {
-            "name_jp": "ズガイドス",
-            "tier": "1",
-            "is_shadow": true,
-            "start": "2026-11-16T05:00:00",
-            "end": "2026-11-24T10:00:00",
-            "source": "minpoke"
         },
         {
             "name_jp": "クレセリア",
@@ -1593,6 +1449,2013 @@
             "start": "2026-11-30T06:00:00",
             "end": "2026-12-06T21:00:00",
             "is_active_tab": false
+        },
+        {
+            "name_jp": "ヒトカゲ",
+            "raw_name_jp": "ヒトカゲ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ゼニガメ",
+            "raw_name_jp": "ゼニガメ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ピカチュウ",
+            "raw_name_jp": "ピカチュウ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "キャタピー",
+            "raw_name_jp": "キャタピー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ガーディ",
+            "raw_name_jp": "ガーディ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ケーシィ",
+            "raw_name_jp": "ケーシィ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ゴース",
+            "raw_name_jp": "ゴース",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "クラブ",
+            "raw_name_jp": "クラブ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サイホーン",
+            "raw_name_jp": "サイホーン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "コイキング",
+            "raw_name_jp": "コイキング",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "オムナイト",
+            "raw_name_jp": "オムナイト",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "カブト",
+            "raw_name_jp": "カブト",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "フシギダネ",
+            "raw_name_jp": "フシギダネ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ホーホー",
+            "raw_name_jp": "ホーホー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ラルトス",
+            "raw_name_jp": "ラルトス",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ナックラー",
+            "raw_name_jp": "ナックラー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "タマザラシ",
+            "raw_name_jp": "タマザラシ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ミツハニー",
+            "raw_name_jp": "ミツハニー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "マメパト",
+            "raw_name_jp": "マメパト",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ダンゴロ",
+            "raw_name_jp": "ダンゴロ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "コロモリ",
+            "raw_name_jp": "コロモリ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "モグリュー",
+            "raw_name_jp": "モグリュー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "モンメン",
+            "raw_name_jp": "モンメン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヤブクロン",
+            "raw_name_jp": "ヤブクロン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ニャスパー",
+            "raw_name_jp": "ニャスパー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "マーイーカ",
+            "raw_name_jp": "マーイーカ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "アマカジ",
+            "raw_name_jp": "アマカジ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ホシガリス",
+            "raw_name_jp": "ホシガリス",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ウールー",
+            "raw_name_jp": "ウールー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サルノリ",
+            "raw_name_jp": "サルノリ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヒバニー",
+            "raw_name_jp": "ヒバニー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "メッソン",
+            "raw_name_jp": "メッソン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ココガラ",
+            "raw_name_jp": "ココガラ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヤクデ",
+            "raw_name_jp": "ヤクデ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ミブリム",
+            "raw_name_jp": "ミブリム",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "モノズ",
+            "raw_name_jp": "モノズ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ワンリキー",
+            "raw_name_jp": "ワンリキー",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "イーブイ",
+            "raw_name_jp": "イーブイ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ツボツボ",
+            "raw_name_jp": "ツボツボ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ニューラ",
+            "raw_name_jp": "ニューラ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ホエルコ",
+            "raw_name_jp": "ホエルコ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヒンバス",
+            "raw_name_jp": "ヒンバス",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ダルマッカ",
+            "raw_name_jp": "ダルマッカ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サワムラー",
+            "raw_name_jp": "サワムラー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "エビワラー",
+            "raw_name_jp": "エビワラー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "エレブー",
+            "raw_name_jp": "エレブー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ブーバー",
+            "raw_name_jp": "ブーバー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ラッキー",
+            "raw_name_jp": "ラッキー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "カポエラー",
+            "raw_name_jp": "カポエラー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヤミラミ",
+            "raw_name_jp": "ヤミラミ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ダンバル",
+            "raw_name_jp": "ダンバル",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "フリージオ",
+            "raw_name_jp": "フリージオ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "モノズ",
+            "raw_name_jp": "モノズ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ナゲツケサル",
+            "raw_name_jp": "ナゲツケサル",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ジジーロン",
+            "raw_name_jp": "ジジーロン",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "タイレーツ",
+            "raw_name_jp": "タイレーツ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-13T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヒトカゲ",
+            "raw_name_jp": "ヒトカゲ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ゼニガメ",
+            "raw_name_jp": "ゼニガメ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ピカチュウ",
+            "raw_name_jp": "ピカチュウ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "キャタピー",
+            "raw_name_jp": "キャタピー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ガーディ",
+            "raw_name_jp": "ガーディ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ケーシィ",
+            "raw_name_jp": "ケーシィ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ゴース",
+            "raw_name_jp": "ゴース",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "クラブ",
+            "raw_name_jp": "クラブ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サイホーン",
+            "raw_name_jp": "サイホーン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "コイキング",
+            "raw_name_jp": "コイキング",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "オムナイト",
+            "raw_name_jp": "オムナイト",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "カブト",
+            "raw_name_jp": "カブト",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "フシギダネ",
+            "raw_name_jp": "フシギダネ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ホーホー",
+            "raw_name_jp": "ホーホー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ラルトス",
+            "raw_name_jp": "ラルトス",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ナックラー",
+            "raw_name_jp": "ナックラー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "タマザラシ",
+            "raw_name_jp": "タマザラシ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ミツハニー",
+            "raw_name_jp": "ミツハニー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "マメパト",
+            "raw_name_jp": "マメパト",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ダンゴロ",
+            "raw_name_jp": "ダンゴロ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "コロモリ",
+            "raw_name_jp": "コロモリ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "モグリュー",
+            "raw_name_jp": "モグリュー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "モンメン",
+            "raw_name_jp": "モンメン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヤブクロン",
+            "raw_name_jp": "ヤブクロン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ニャスパー",
+            "raw_name_jp": "ニャスパー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "マーイーカ",
+            "raw_name_jp": "マーイーカ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "アマカジ",
+            "raw_name_jp": "アマカジ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ホシガリス",
+            "raw_name_jp": "ホシガリス",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ウールー",
+            "raw_name_jp": "ウールー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サルノリ",
+            "raw_name_jp": "サルノリ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヒバニー",
+            "raw_name_jp": "ヒバニー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "メッソン",
+            "raw_name_jp": "メッソン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ココガラ",
+            "raw_name_jp": "ココガラ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヤクデ",
+            "raw_name_jp": "ヤクデ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ミブリム",
+            "raw_name_jp": "ミブリム",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "イーブイ",
+            "raw_name_jp": "イーブイ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ワンリキー",
+            "raw_name_jp": "ワンリキー",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ツボツボ",
+            "raw_name_jp": "ツボツボ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ニューラ",
+            "raw_name_jp": "ニューラ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ホエルコ",
+            "raw_name_jp": "ホエルコ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヒンバス",
+            "raw_name_jp": "ヒンバス",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ダルマッカ",
+            "raw_name_jp": "ダルマッカ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サワムラー",
+            "raw_name_jp": "サワムラー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "エビワラー",
+            "raw_name_jp": "エビワラー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "エレブー",
+            "raw_name_jp": "エレブー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ブーバー",
+            "raw_name_jp": "ブーバー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ラッキー",
+            "raw_name_jp": "ラッキー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "カポエラー",
+            "raw_name_jp": "カポエラー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヤミラミ",
+            "raw_name_jp": "ヤミラミ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ダンバル",
+            "raw_name_jp": "ダンバル",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "フリージオ",
+            "raw_name_jp": "フリージオ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "モノズ",
+            "raw_name_jp": "モノズ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ナゲツケサル",
+            "raw_name_jp": "ナゲツケサル",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ジジーロン",
+            "raw_name_jp": "ジジーロン",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "タイレーツ",
+            "raw_name_jp": "タイレーツ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-20T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サンド(アローラ)",
+            "raw_name_jp": "サンド(アローラ)",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヒトカゲ",
+            "raw_name_jp": "ヒトカゲ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ゼニガメ",
+            "raw_name_jp": "ゼニガメ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ピカチュウ",
+            "raw_name_jp": "ピカチュウ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "キャタピー",
+            "raw_name_jp": "キャタピー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ガーディ",
+            "raw_name_jp": "ガーディ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ケーシィ",
+            "raw_name_jp": "ケーシィ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ゴース",
+            "raw_name_jp": "ゴース",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "クラブ",
+            "raw_name_jp": "クラブ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サイホーン",
+            "raw_name_jp": "サイホーン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "コイキング",
+            "raw_name_jp": "コイキング",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "オムナイト",
+            "raw_name_jp": "オムナイト",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "カブト",
+            "raw_name_jp": "カブト",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "フシギダネ",
+            "raw_name_jp": "フシギダネ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ホーホー",
+            "raw_name_jp": "ホーホー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ラルトス",
+            "raw_name_jp": "ラルトス",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ナックラー",
+            "raw_name_jp": "ナックラー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "タマザラシ",
+            "raw_name_jp": "タマザラシ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ミツハニー",
+            "raw_name_jp": "ミツハニー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "マメパト",
+            "raw_name_jp": "マメパト",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ダンゴロ",
+            "raw_name_jp": "ダンゴロ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "コロモリ",
+            "raw_name_jp": "コロモリ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "モグリュー",
+            "raw_name_jp": "モグリュー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "モンメン",
+            "raw_name_jp": "モンメン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヤブクロン",
+            "raw_name_jp": "ヤブクロン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ニャスパー",
+            "raw_name_jp": "ニャスパー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "マーイーカ",
+            "raw_name_jp": "マーイーカ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "アマカジ",
+            "raw_name_jp": "アマカジ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ホシガリス",
+            "raw_name_jp": "ホシガリス",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ウールー",
+            "raw_name_jp": "ウールー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サルノリ",
+            "raw_name_jp": "サルノリ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヒバニー",
+            "raw_name_jp": "ヒバニー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "メッソン",
+            "raw_name_jp": "メッソン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ココガラ",
+            "raw_name_jp": "ココガラ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヤクデ",
+            "raw_name_jp": "ヤクデ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ミブリム",
+            "raw_name_jp": "ミブリム",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ワンリキー",
+            "raw_name_jp": "ワンリキー",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "イーブイ",
+            "raw_name_jp": "イーブイ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ツボツボ",
+            "raw_name_jp": "ツボツボ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ニューラ",
+            "raw_name_jp": "ニューラ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ホエルコ",
+            "raw_name_jp": "ホエルコ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヒンバス",
+            "raw_name_jp": "ヒンバス",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ダルマッカ",
+            "raw_name_jp": "ダルマッカ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サワムラー",
+            "raw_name_jp": "サワムラー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "エビワラー",
+            "raw_name_jp": "エビワラー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "エレブー",
+            "raw_name_jp": "エレブー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ブーバー",
+            "raw_name_jp": "ブーバー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ラッキー",
+            "raw_name_jp": "ラッキー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "カポエラー",
+            "raw_name_jp": "カポエラー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヤミラミ",
+            "raw_name_jp": "ヤミラミ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ダンバル",
+            "raw_name_jp": "ダンバル",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "フリージオ",
+            "raw_name_jp": "フリージオ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "モノズ",
+            "raw_name_jp": "モノズ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ナゲツケサル",
+            "raw_name_jp": "ナゲツケサル",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ジジーロン",
+            "raw_name_jp": "ジジーロン",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "タイレーツ",
+            "raw_name_jp": "タイレーツ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-27T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "コイキング",
+            "raw_name_jp": "コイキング",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サンド(アローラ)",
+            "raw_name_jp": "サンド(アローラ)",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヒトカゲ",
+            "raw_name_jp": "ヒトカゲ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ゼニガメ",
+            "raw_name_jp": "ゼニガメ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ピカチュウ",
+            "raw_name_jp": "ピカチュウ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "キャタピー",
+            "raw_name_jp": "キャタピー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ガーディ",
+            "raw_name_jp": "ガーディ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ケーシィ",
+            "raw_name_jp": "ケーシィ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ゴース",
+            "raw_name_jp": "ゴース",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "クラブ",
+            "raw_name_jp": "クラブ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サイホーン",
+            "raw_name_jp": "サイホーン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "オムナイト",
+            "raw_name_jp": "オムナイト",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "カブト",
+            "raw_name_jp": "カブト",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "フシギダネ",
+            "raw_name_jp": "フシギダネ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ホーホー",
+            "raw_name_jp": "ホーホー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ラルトス",
+            "raw_name_jp": "ラルトス",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ナックラー",
+            "raw_name_jp": "ナックラー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "タマザラシ",
+            "raw_name_jp": "タマザラシ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ミツハニー",
+            "raw_name_jp": "ミツハニー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "マメパト",
+            "raw_name_jp": "マメパト",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ダンゴロ",
+            "raw_name_jp": "ダンゴロ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "コロモリ",
+            "raw_name_jp": "コロモリ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "モグリュー",
+            "raw_name_jp": "モグリュー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "モンメン",
+            "raw_name_jp": "モンメン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヤブクロン",
+            "raw_name_jp": "ヤブクロン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ニャスパー",
+            "raw_name_jp": "ニャスパー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "マーイーカ",
+            "raw_name_jp": "マーイーカ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "アマカジ",
+            "raw_name_jp": "アマカジ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ホシガリス",
+            "raw_name_jp": "ホシガリス",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ウールー",
+            "raw_name_jp": "ウールー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サルノリ",
+            "raw_name_jp": "サルノリ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヒバニー",
+            "raw_name_jp": "ヒバニー",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "メッソン",
+            "raw_name_jp": "メッソン",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ココガラ",
+            "raw_name_jp": "ココガラ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヤクデ",
+            "raw_name_jp": "ヤクデ",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ミブリム",
+            "raw_name_jp": "ミブリム",
+            "level": "tier_1",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ワンリキー",
+            "raw_name_jp": "ワンリキー",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "イーブイ",
+            "raw_name_jp": "イーブイ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ツボツボ",
+            "raw_name_jp": "ツボツボ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ニューラ",
+            "raw_name_jp": "ニューラ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ホエルコ",
+            "raw_name_jp": "ホエルコ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヒンバス",
+            "raw_name_jp": "ヒンバス",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ダルマッカ",
+            "raw_name_jp": "ダルマッカ",
+            "level": "tier_2",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "サワムラー",
+            "raw_name_jp": "サワムラー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "エビワラー",
+            "raw_name_jp": "エビワラー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "エレブー",
+            "raw_name_jp": "エレブー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ブーバー",
+            "raw_name_jp": "ブーバー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ラッキー",
+            "raw_name_jp": "ラッキー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "カポエラー",
+            "raw_name_jp": "カポエラー",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ヤミラミ",
+            "raw_name_jp": "ヤミラミ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ダンバル",
+            "raw_name_jp": "ダンバル",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "フリージオ",
+            "raw_name_jp": "フリージオ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "モノズ",
+            "raw_name_jp": "モノズ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ナゲツケサル",
+            "raw_name_jp": "ナゲツケサル",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "ジジーロン",
+            "raw_name_jp": "ジジーロン",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
+        },
+        {
+            "name_jp": "タイレーツ",
+            "raw_name_jp": "タイレーツ",
+            "level": "tier_3",
+            "is_gmax": false,
+            "start": "2026-12-28T06:00:00",
+            "end": "2027-01-03T21:00:00",
+            "is_active_tab": false
         }
     ],
     "events": [
@@ -1709,12 +3572,44 @@
             "link": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/"
         },
         {
+            "title": "Regidrago Raid Hour",
+            "type": "raid-hour",
+            "start": "2026-12-02T18:00:00",
+            "end": "2026-12-02T19:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/raidhour20261202/"
+        },
+        {
+            "title": "Wimpod Spotlight Hour",
+            "type": "pokémon-spotlight-hour",
+            "start": "2026-12-03T18:00:00",
+            "end": "2026-12-03T19:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-03/"
+        },
+        {
             "title": "Max Battle Day",
             "type": "max-battles",
             "start": "2026-12-05T14:00:00",
             "end": "2027-01-23T17:00:00",
             "is_local_time": true,
             "link": "https://leekduck.com/events/max-battle-day-december-2026/"
+        },
+        {
+            "title": "Tropical Paradise",
+            "type": "event",
+            "start": "2026-12-01T10:00:00",
+            "end": "2026-12-07T20:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/tropical-paradise-2026/"
+        },
+        {
+            "title": "Dynamax Deino during Max Monday",
+            "type": "max-mondays",
+            "start": "2026-12-07T06:00:00",
+            "end": "2026-12-07T21:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/max-mondays-2026-12-07/"
         },
         {
             "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
@@ -1725,12 +3620,60 @@
             "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1/"
         },
         {
+            "title": "Mega Slowbro in Mega Raids",
+            "type": "raid-battles",
+            "start": "2026-12-02T06:00:00",
+            "end": "2026-12-08T22:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/mega-slowbro-in-mega-raids-december-2026/"
+        },
+        {
+            "title": "Regidrago in 5-star Raid Battles",
+            "type": "raid-battles",
+            "start": "2026-12-02T06:00:00",
+            "end": "2026-12-08T22:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/regidrago-in-5-star-raid-battles-december-2026/"
+        },
+        {
+            "title": "Unannounced Raid Hour",
+            "type": "raid-hour",
+            "start": "2026-12-09T18:00:00",
+            "end": "2026-12-09T19:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/raidhour20261209/"
+        },
+        {
+            "title": "Starly Spotlight Hour",
+            "type": "pokémon-spotlight-hour",
+            "start": "2026-12-10T18:00:00",
+            "end": "2026-12-10T19:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-10/"
+        },
+        {
             "title": "December Community Day 2026",
             "type": "community-day",
             "start": "2026-12-12T14:00:00",
             "end": "2026-12-13T17:00:00",
             "is_local_time": true,
             "link": "https://leekduck.com/events/december-communityday2026/"
+        },
+        {
+            "title": "Unannounced Event",
+            "type": "event",
+            "start": "2026-12-08T10:00:00",
+            "end": "2026-12-14T20:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/unannounced-event-december-2026/"
+        },
+        {
+            "title": "Dynamax Eevee during Max Monday",
+            "type": "max-mondays",
+            "start": "2026-12-14T06:00:00",
+            "end": "2026-12-14T21:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/max-mondays-2026-12-14/"
         },
         {
             "title": "Great League: Mega Edition and Mountain Cup: Great League Edition | Daydream Destinations",
@@ -1741,12 +3684,44 @@
             "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-league-edition/"
         },
         {
+            "title": "Mega Gengar in Mega Raids",
+            "type": "raid-battles",
+            "start": "2026-12-09T06:00:00",
+            "end": "2026-12-15T22:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/mega-gengar-in-mega-raids-december-2026/"
+        },
+        {
+            "title": "Unannounced Pokémon in 5-star Raid Battles",
+            "type": "raid-battles",
+            "start": "2026-12-09T06:00:00",
+            "end": "2026-12-15T22:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/unannounced-pokemon-in-5-star-raid-battles-december-2026/"
+        },
+        {
+            "title": "Ho-Oh Raid Hour",
+            "type": "raid-hour",
+            "start": "2026-12-16T18:00:00",
+            "end": "2026-12-16T19:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/raidhour20261216/"
+        },
+        {
             "title": "Minior Showers: Geminids 2026",
             "type": "event",
             "start": "2026-12-11T17:00:00",
             "end": "2026-12-16T23:59:00",
             "is_local_time": true,
             "link": "https://leekduck.com/events/minior-showers-geminids-2026/"
+        },
+        {
+            "title": "Bergmite Spotlight Hour",
+            "type": "pokémon-spotlight-hour",
+            "start": "2026-12-17T18:00:00",
+            "end": "2026-12-17T19:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-17/"
         },
         {
             "title": "Raid Day",
@@ -1757,12 +3732,60 @@
             "link": "https://leekduck.com/events/raid-day-december-2026/"
         },
         {
+            "title": "Choose Your Path: Daydream Destinations (December 15, 2026)",
+            "type": "choose-your-path",
+            "start": "2026-12-15T10:00:00",
+            "end": "2026-12-21T20:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2026-12-15/"
+        },
+        {
+            "title": "Dynamax Alolan Sandshrew during Max Monday",
+            "type": "max-mondays",
+            "start": "2026-12-21T06:00:00",
+            "end": "2026-12-21T21:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/max-mondays-2026-12-21/"
+        },
+        {
             "title": "Ultra League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
             "type": "go-battle-league",
             "start": "2026-12-15T21:00:00+00:00",
             "end": "2026-12-22T21:00:00+00:00",
             "is_local_time": false,
             "link": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition/"
+        },
+        {
+            "title": "Ho-Oh in 5-star Raid Battles",
+            "type": "raid-battles",
+            "start": "2026-12-16T06:00:00",
+            "end": "2026-12-22T22:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/ho-oh-in-5-star-raid-battles-december-2026/"
+        },
+        {
+            "title": "Mega Skarmory in Mega Raids",
+            "type": "raid-battles",
+            "start": "2026-12-16T06:00:00",
+            "end": "2026-12-22T22:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/mega-skarmory-in-mega-raids-december-2026/"
+        },
+        {
+            "title": "Lugia Raid Hour",
+            "type": "raid-hour",
+            "start": "2026-12-23T18:00:00",
+            "end": "2026-12-23T19:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/raidhour20261223/"
+        },
+        {
+            "title": "Delibird Spotlight Hour",
+            "type": "pokémon-spotlight-hour",
+            "start": "2026-12-24T18:00:00",
+            "end": "2026-12-24T19:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-24/"
         },
         {
             "title": "Hatch Day",
@@ -1773,12 +3796,60 @@
             "link": "https://leekduck.com/events/hatch-day-december-2026/"
         },
         {
+            "title": "Winter Holiday 2026",
+            "type": "event",
+            "start": "2026-12-22T10:00:00",
+            "end": "2026-12-28T20:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/winter-holiday-2026/"
+        },
+        {
+            "title": "Dynamax Magikarp during Max Monday",
+            "type": "max-mondays",
+            "start": "2026-12-28T06:00:00",
+            "end": "2026-12-28T21:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/max-mondays-2026-12-28/"
+        },
+        {
             "title": "Master League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
             "type": "go-battle-league",
             "start": "2026-12-22T21:00:00+00:00",
             "end": "2026-12-29T21:00:00+00:00",
             "is_local_time": false,
             "link": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-league-edition/"
+        },
+        {
+            "title": "Lugia in 5-star Raid Battles",
+            "type": "raid-battles",
+            "start": "2026-12-23T06:00:00",
+            "end": "2026-12-29T22:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/lugia-in-5-star-raid-battles-december-2026/"
+        },
+        {
+            "title": "Mega Glalie in Mega Raids",
+            "type": "raid-battles",
+            "start": "2026-12-23T06:00:00",
+            "end": "2026-12-29T22:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/mega-glalie-in-mega-raids-december-2026/"
+        },
+        {
+            "title": "Tornadus (Therian Forme), Thundurus (Therian Forme), and Landorus (Therian Forme) Raid Hour",
+            "type": "raid-hour",
+            "start": "2026-12-30T18:00:00",
+            "end": "2026-12-30T19:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/raidhour20261230/"
+        },
+        {
+            "title": "Plusle and Minun Spotlight Hour",
+            "type": "pokémon-spotlight-hour",
+            "start": "2026-12-31T18:00:00",
+            "end": "2026-12-31T19:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-31/"
         },
         {
             "title": "Pokémon GO and Duolingo Timed Research",
@@ -1795,6 +3866,46 @@
             "end": "2027-01-02T17:00:00",
             "is_local_time": true,
             "link": "https://leekduck.com/events/january-communitydayclassic2027/"
+        },
+        {
+            "title": "New Year's 2027",
+            "type": "event",
+            "start": "2026-12-29T10:00:00",
+            "end": "2027-01-04T20:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/new-years-2027/"
+        },
+        {
+            "title": "GO Pass: December",
+            "type": "go-pass",
+            "start": "2026-12-01T10:00:00",
+            "end": "2027-01-05T10:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/go-pass-december-2026/"
+        },
+        {
+            "title": "Shadow Dialga in Shadow Raids",
+            "type": "raid-battles",
+            "start": "2026-12-02T06:00:00",
+            "end": "2027-01-05T22:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/shadow-dialga-in-shadow-raids-december-2026/"
+        },
+        {
+            "title": "Mega Falinks in Mega Raids",
+            "type": "raid-battles",
+            "start": "2026-12-30T06:00:00",
+            "end": "2027-01-05T22:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/mega-falinks-in-mega-raids-december-2026/"
+        },
+        {
+            "title": "Tornadus, Thundurus, and Landorus (Therian Formes) in 5-star Raid Battles",
+            "type": "raid-battles",
+            "start": "2026-12-30T06:00:00",
+            "end": "2027-01-05T22:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-december-2026/"
         },
         {
             "title": "Super Mega Raid Day",
@@ -1829,6 +3940,14 @@
             "link": "https://leekduck.com/events/january-communityday2027/"
         },
         {
+            "title": "Choose Your Path: Daydream Destinations (January 12, 2027)",
+            "type": "choose-your-path",
+            "start": "2027-01-12T10:00:00",
+            "end": "2027-01-18T20:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-12/"
+        },
+        {
             "title": "Ultra League: Mega Edition and Jungle Cup: Great League Edition | Daydream Destinations",
             "type": "go-battle-league",
             "start": "2027-01-12T21:00:00+00:00",
@@ -1843,6 +3962,14 @@
             "end": "2027-01-26T21:00:00+00:00",
             "is_local_time": false,
             "link": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_master-league/"
+        },
+        {
+            "title": "Choose Your Path: Daydream Destinations (January 26, 2027)",
+            "type": "choose-your-path",
+            "start": "2027-01-26T10:00:00",
+            "end": "2027-02-01T20:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-26/"
         },
         {
             "title": "February Community Day",
@@ -1875,6 +4002,14 @@
             "end": "2027-02-21T15:59:59+00:00",
             "is_local_time": false,
             "link": "https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/"
+        },
+        {
+            "title": "Choose Your Path: Daydream Destinations (February 16, 2027)",
+            "type": "choose-your-path",
+            "start": "2027-02-16T10:00:00",
+            "end": "2027-02-21T20:00:00",
+            "is_local_time": true,
+            "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-02-16/"
         },
         {
             "title": "Pokémon GO Tour: Alola - Los Angeles 2027",
@@ -2104,6 +4239,83 @@
             "tier": "Mega",
             "start": "2026-11-25T06:00:00",
             "end": "2026-12-01T22:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Mega Slowbro",
+            "tier": "Mega",
+            "start": "2026-12-02T06:00:00",
+            "end": "2026-12-08T22:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Regidrago",
+            "tier": "5-star",
+            "start": "2026-12-02T06:00:00",
+            "end": "2026-12-08T22:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Mega Gengar",
+            "tier": "Mega",
+            "start": "2026-12-09T06:00:00",
+            "end": "2026-12-15T22:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Unannounced Pokémon",
+            "tier": "5-star",
+            "start": "2026-12-09T06:00:00",
+            "end": "2026-12-15T22:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Ho-Oh",
+            "tier": "5-star",
+            "start": "2026-12-16T06:00:00",
+            "end": "2026-12-22T22:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Mega Skarmory",
+            "tier": "Mega",
+            "start": "2026-12-16T06:00:00",
+            "end": "2026-12-22T22:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Lugia",
+            "tier": "5-star",
+            "start": "2026-12-23T06:00:00",
+            "end": "2026-12-29T22:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Mega Glalie",
+            "tier": "Mega",
+            "start": "2026-12-23T06:00:00",
+            "end": "2026-12-29T22:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Shadow Dialga",
+            "tier": "Shadow",
+            "start": "2026-12-02T06:00:00",
+            "end": "2027-01-05T22:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Mega Falinks",
+            "tier": "Mega",
+            "start": "2026-12-30T06:00:00",
+            "end": "2027-01-05T22:00:00",
+            "source": "leekduck"
+        },
+        {
+            "name": "Tornadus, Thundurus, and Landorus (Therian Formes)",
+            "tier": "5-star",
+            "start": "2026-12-30T06:00:00",
+            "end": "2027-01-05T22:00:00",
             "source": "leekduck"
         }
     ]
